@@ -20,6 +20,6 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## MozSprint
 
-Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
+Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
 
 ![screen shot 2017-04-03 at 5 26 26 pm](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
