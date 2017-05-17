@@ -5,7 +5,7 @@ This is a list of courses
 
 List
 
-{% for course in site.data.courses %}
+{% for course in site.courses %}
 ## {{ course.title }}
 license: {{course.license}}
 availability: {{ course.course_availability }}
