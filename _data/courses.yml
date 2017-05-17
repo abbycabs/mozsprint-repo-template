@@ -1,15 +1,18 @@
-- name: Writing For Change
+- title: Writing For Change
   url: http://writing4change.p2pu.org/
   image: w4c.png
+  license: CC-BY-SA
 
-- name: Teach The Web
+- title: Teach The Web
   url: https://training.webmakerprototypes.org/en/
   image: ttw.png
+  license: CC-BY-SA
 
-- name: Play With Your Music
+- title: Play With Your Music
   url: http://www.playwithyourmusic.org/
   image: playwithyourmusic.png
+  license: CC-BY-SA
 
-- name: Gentle Introduction To Python
+- title: Gentle Introduction To Python
   url: http://python.p2pu.org/
   image: gitp-logo.png
