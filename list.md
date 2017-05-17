@@ -1,6 +1,6 @@
 ## Math courses
  - Introduction to algebra [openly licenced]
- - Basic calculus
+ - [Calculus 101](https://github.com/dirkcuys/Awesome-OER-List/blob/master/courses/caculus-101.md)
  - blah
  
 ## Computer science
