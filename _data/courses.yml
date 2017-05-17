@@ -2,7 +2,7 @@
   url: http://writing4change.p2pu.org/
   image: w4c.png
   license: CC-BY-SA
-  course availability: on-demand
+  course_availability: on-demand
 
 - title: Teach The Web
   url: https://training.webmakerprototypes.org/en/
