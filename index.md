@@ -5,5 +5,6 @@ This is a list of courses
 
 List
 
- - course 1
- - course 2
+{% for course in site.data.courses %}
+ - {{ course.title }}
+{% endfor %}
