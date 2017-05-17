@@ -1,4 +1,4 @@
-# [ Project Title ]
+# AWESOME OER
 
 Peer 2 Peer University (P2PU) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led study groups (we call learning circles) to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
 
