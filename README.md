@@ -1,8 +1,10 @@
 # [ Project Title ]
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Peer 2 Peer University (P2PU) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led study groups (we call learning circles) to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
 
-[ If you have one, add your logo or an image here ]
+WE NEED YOUR HELP to find make our Open Educational Resources list AWESOME. We want to create a current list of OER courses for educators to use right away.
+
+
 
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
 
