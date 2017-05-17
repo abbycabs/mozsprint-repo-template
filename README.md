@@ -4,7 +4,7 @@ Peer 2 Peer University (P2PU) supports access to high-quality education in publi
 
 WE NEED YOUR HELP to find make our Open Educational Resources list AWESOME. We want to create a current list of OER courses for educators to use right away.
 
-
+![alt text](http://info.p2pu.org/wp-content/uploads/2010/07/P2PU-logo_big.jpg)
 
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
 
