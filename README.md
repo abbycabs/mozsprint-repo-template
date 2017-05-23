@@ -14,6 +14,7 @@ Current higher education paradigms – college, MOOCs - have been unable to tack
 * Lack of Social Supprt: Without a peer network, it is difficult for many learners to stay engaged and motivated, and get help when they need it.
 
 Solution: P2PU Learning Circles
+
 Lightly facilitated and locally delivered model of peer learning that leverages high quality online learning materials. 
 * Open: Leverages existing MOOCs; Participants do not need additional tools, and minimal digital literacy; Model designed for free and easy scalability
 * Peer Learning: Participants work together, face to face, building interpersonal skills; Includes tools to foster peer learning and two way feedback; Facilitated by non-content expert
