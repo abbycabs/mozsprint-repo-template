@@ -2,11 +2,11 @@
 
 [Peer 2 Peer University (P2PU)](p2pu.org) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
 
-WE NEED YOUR HELP to find make our Open Educational Resources list AWESOME. We want to create a current list of OER courses for educators to use right away.
+**WE NEED YOUR HELP** to find make our Open Educational Resources list **AWESOME**. We want to create a current list of OER courses for educators to use right away.
 
 ![alt text](http://www.knowledge-commons.de/wp-content/uploads/2014/02/P2PU-logo.jpg)
 
-###
+## Learn a bit more
 Problem: 35% of US adults start but never finish college
 Current higher education paradigms – college, MOOCs - have been unable to tackle the education crisis for the following reasons:
 * Cost: Not just direct costs of school, but associated costs (transport, materials, etc) and opportunity cost of juggling job and school.
@@ -19,7 +19,13 @@ Lightly facilitated and locally delivered model of peer learning that leverages 
 * Peer Learning: Participants work together, face to face, building interpersonal skills; Includes tools to foster peer learning and two way feedback; Facilitated by non-content expert
 * Real people in Real places: Offline study groups, meeting weekly; Hosted in publicly accessible space that local communities know
 
+## One part of the solution: OER
 
+Anyone can run a [learning circle](https://learningcircles.p2pu.org/en/). The first step is to choose which online course you would like to take in-person with others. 
+
+There are seemingly thousands of online courses available...but where exactly? And, which ones are free, open, high quality, and available on-demand? When we mean "open" in terms of Open Educational Resource (OER), we mean "free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes". Here's a few other definitions of [OER](https://wiki.creativecommons.org/wiki/What_is_OER%3F).
+
+Take a look at [our current course list](https://learningcircles.p2pu.org/en/courses/) to give you an idea of what learning circle facilitators are using. There are also course aggregator websites like [class-central](https://www.class-central.com/) and [open culture](http://www.openculture.com/freeonlinecourses) that might help you along your path. 
 
 ## Getting Started
 
