@@ -1,6 +1,6 @@
 # AWESOME OER
 
-Peer 2 Peer University (P2PU) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
+[Peer 2 Peer University (P2PU)](p2pu.org) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
 
 WE NEED YOUR HELP to find make our Open Educational Resources list AWESOME. We want to create a current list of OER courses for educators to use right away.
 
@@ -15,13 +15,21 @@ Current higher education paradigms – college, MOOCs - have been unable to tack
 * No life skill training: Learners succeed not just by accumulating content knowledge, but by developing life-success skills that support them going forward.
 * Lack of Social Supprt: Without a peer network, it is difficult for many learners to stay engaged and motivated, and get help when they need it.
 
+Solution: P2PU Learning Circles
+Lightly facilitated and locally delivered model of peer learning that leverages high quality online learning materials. 
+* Open: Leverages existing MOOCs; Participants do not need additional tools, and minimal digital literacy; Model designed for free and easy scalability
+* Peer Learning: Participants work together, face to face, building interpersonal skills; Includes tools to foster peer learning and two way feedback; Facilitated by non-content expert
+* Real people in Real places: Offline study groups, meeting weekly; Hosted in publicly accessible space that local communities know
+
+
+
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+XXXXXXXX
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to P2PU's Awesome OER List! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
