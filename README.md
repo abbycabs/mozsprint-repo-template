@@ -7,7 +7,7 @@
 ![alt text](http://www.knowledge-commons.de/wp-content/uploads/2014/02/P2PU-logo.jpg)
 
 ## The big picture
-Problem: 35% of US adults start but never finish college
+Problem: 35% of US adults start but never finish college.
 Current higher education paradigms – college, MOOCs - have been unable to tackle the education crisis for the following reasons:
 * Cost: Not just direct costs of school, but associated costs (transport, materials, etc) and opportunity cost of juggling job and school.
 * No life skill training: Learners succeed not just by accumulating content knowledge, but by developing life-success skills that support them going forward.
