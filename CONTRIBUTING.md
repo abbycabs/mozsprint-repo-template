@@ -21,7 +21,10 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-* We're currently expanding our learning circle model to work with [libraries across the USA](http://info.p2pu.org/2017/05/16/peer-2-peer-coast-2-coast/)
+* Expanding our learning circle model to work with [libraries across the USA](http://info.p2pu.org/2017/05/16/peer-2-peer-coast-2-coast/)
+* Supporting learners in Kenya participate through the [Kenya National Library Service](http://www.eifl.net/news/public-library-has-put-me-right-path)
+* Building a global community of learning circle facilitators and educators through our [community forum](https://groups.google.com/a/p2pu.org/forum/#!forum/community)
+* Creating an open source learning revolution: Anyone, anywhere can log on to platform and obtain the online tools, as well as access to virtual community, to run learning circles in their community 
 
 ## How to submit changes
 
@@ -33,12 +36,12 @@ Once you've identified one of the issues above that you feel you can contribute 
 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
 
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
 ## Communication channels
 
 Email us: thepeople@p2pu.org
-Tweet: @p2pu
+Tweet: [@p2pu](www.twitter.com/p2pu)
 
