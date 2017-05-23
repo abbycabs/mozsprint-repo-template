@@ -4,9 +4,16 @@ Peer 2 Peer University (P2PU) supports access to high-quality education in publi
 
 WE NEED YOUR HELP to find make our Open Educational Resources list AWESOME. We want to create a current list of OER courses for educators to use right away.
 
+
 ![alt text](http://www.knowledge-commons.de/wp-content/uploads/2014/02/P2PU-logo.jpg)
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+
+###
+Problem: 35% of US adults start but never finish college
+Current higher education paradigms – college, MOOCs - have been unable to tackle the education crisis for the following reasons:
+* Cost: Not just direct costs of school, but associated costs (transport, materials, etc) and opportunity cost of juggling job and school.
+* No life skill training: Learners succeed not just by accumulating content knowledge, but by developing life-success skills that support them going forward.
+* Lack of Social Supprt: Without a peer network, it is difficult for many learners to stay engaged and motivated, and get help when they need it.
 
 ## Getting Started
 
