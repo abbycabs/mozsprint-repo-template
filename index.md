@@ -10,5 +10,5 @@ List
 
 license: {{course.license}}
 availability: {{ course.course_availability }}
-url: {{ course.url }}
+
 {% endfor %}
