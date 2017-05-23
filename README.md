@@ -4,7 +4,7 @@
 
 WE NEED YOUR HELP to find make our Open Educational Resources list AWESOME. We want to create a current list of OER courses for educators to use right away.
 
-
+<div style="text-align:center"><img src ="http://www.knowledge-commons.de/wp-content/uploads/2014/02/P2PU-logo.jpg" /></div>
 ![alt text](http://www.knowledge-commons.de/wp-content/uploads/2014/02/P2PU-logo.jpg)
 
 
