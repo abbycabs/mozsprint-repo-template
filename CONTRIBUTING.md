@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to P2PU's Awesome OER List!
 
-Peer 2 Peer University (P2PU) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
+[Peer 2 Peer University (P2PU)](https://www.p2pu.org/en/) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
 
 WE NEED YOUR HELP to find make our Open Educational Resources list AWESOME. We want to create a current list of OER courses for educators to use right away.
 
@@ -21,11 +21,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
-
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+* We're currently expanding our learning circle model to work with [libraries across the USA](http://info.p2pu.org/2017/05/16/peer-2-peer-coast-2-coast/)
 
 ## How to submit changes
 
