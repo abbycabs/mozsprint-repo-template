@@ -38,7 +38,8 @@ Once you've identified one of the issues above that you feel you can contribute 
 First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
 ## Communication channels
-
+ 
+Join our [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses). 
 Email us: thepeople@p2pu.org
 Tweet: [@p2pu](www.twitter.com/p2pu)
 
