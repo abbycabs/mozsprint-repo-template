@@ -4,9 +4,11 @@
 
 **WE NEED YOUR HELP** to find more **AWESOME** online courses and share this list with educators and facilitators who are running learning cirlces around the globe. 
 
+Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses)
+
 ![alt text](http://www.knowledge-commons.de/wp-content/uploads/2014/02/P2PU-logo.jpg)
 
-## Learning Circles
+## What are Learning Circles?
 
 [Learning circles](https://learningcircles.p2pu.org/en/) are lightly-facilitated study groups for adult learners who want to take free
 online courses together at a library or community center. Meeting once a week for 6-8 weeks, participants work together through course materials in subjects ranging from resume writing to web design to public speaking. The facilitator is not expected to be a content expert - their role is to be proficient in online courseware and skilled in facilitating peer learning groups.
@@ -41,7 +43,7 @@ To give you a sense of some of the types of courses we're looking for, our most 
 
 (Hint: We're not looking for another Ruby on Rails or VR App Courses)
 
-## Getting Started
+## Contributing
 
 Take a look at [our current course list](https://learningcircles.p2pu.org/en/courses/) to give you an idea of what learning circle facilitators are currently using. I would also recommend taking a peak through course aggregator websites like [class-central](https://www.class-central.com/) and [open culture](http://www.openculture.com/freeonlinecourses) to get a sense of what is out there already.
 
@@ -57,6 +59,8 @@ Tell us what you are looking at - open a new github issue and say what topic are
 6. Update the fields at the top - title, …
 7. Click “Commit new file”
 8. Submit new pull request 
+
+Questions? Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses)
 
 ## Participation Guidelines
 
