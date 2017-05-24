@@ -9,7 +9,9 @@ List
 ## {{ course.title }}
 
 license: {{course.license}}
+
 availability: {{ course.course_availability }}
+
 course provider: {{ course.course_provider }}
 
 {% endfor %}
