@@ -14,11 +14,11 @@ online courses together at a library or community center. Meeting once a week fo
 There is a huge volume of free, high-quality learning courses available online, but completion rates for online learning hover around 5%, and those who do complete a course are often already highly educated. Due to barriers like **digital literacy, awareness, and academic
 confidence**, many of the individuals who stand to gain the most from online learning are not currently taking part. Learning circles offer an opportunity for **first-time online learners** meaningfully engage with course materials, and provide peer-to-peer support to help each other succeed. They also support the development of digital skills, and help create face-to-face community around shared interests. Learning circles usually meet for 90 minutes/week for 6 weeks with between 4-12 participants, though this model is flexible. 
 
-However, there are thousands of online courses to choose from, and few of them are AWESOME***.
+However, there are thousands of online courses to choose from, but few are AWESOME.
 
-## What's an AWESOME Online Course?
+## Whatt makes an AWESOME Online Course?
 
-Online learning is truly awesome when it meets the learner's *skills, knowledge, context, interests* and is *accessible*. Being that many of our learners are not interested in Ruby on Rails, iOS App Development,  
+Online learning is truly awesome when it meets the learner's **skills, knowledge, context, interests** and is **accessible**. Being that many of our learners are not interested in Ruby on Rails, iOS App Development,  
 
 An Awesome Course is...
 * Free (free enrolment and free access to all course materials)
@@ -33,16 +33,19 @@ An Awesome Course is...
 * Course materials and the platform intuitive to use
 * Clear sense of expertise present in the course materials
 
-Could it also work as a learning circle?
+It also could work as a learning circle...
 * Activities make sense being done together as group work
-* Possible to imagine a facilitato running this course in-person
+* It is possible to imagine a facilitator running the course in-person
 
-Take a look at [our current course list](https://learningcircles.p2pu.org/en/courses/) to give you an idea of what learning circle facilitators are currently using as inspirtation. There are also course aggregator websites like [class-central](https://www.class-central.com/) and [open culture](http://www.openculture.com/freeonlinecourses) that you should know about too.
+To give you a sense of some of the types of courses we're looking for, our most popular courses that are run as learning circles are: Intro to HTML and CSS; Resume Writing; Beginner's Guide to Academic Writing; Introduction to Computer Science; Finance for Everyone: Smart Tools for Decision-Making; Fundamentals of Public Speaking; The Science of Happiness; Start Writing Fiction; Career Edge: Resume, Networking and Interview Skills; English Now! USA Learns; Make a Website.
 
+(Hint: Not ruby on Rails or VR app Development)
 
 ## Getting Started
- 
-Tell us what you are looking at - open a new github issue and say what topic area you are looking into
+
+Take a look at [our current course list](https://learningcircles.p2pu.org/en/courses/) to give you an idea of what learning circle facilitators are currently using. I would also recommend taking a peak through course aggregator websites like [class-central](https://www.class-central.com/) and [open culture](http://www.openculture.com/freeonlinecourses) to get a sense of what is out there already.
+
+Tell us what you are looking at - open a new github issue and say what topic area you are looking into.
 
 ### Tech info for adding a course
 
