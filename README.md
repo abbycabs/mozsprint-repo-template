@@ -16,7 +16,7 @@ confidence**, many of the individuals who stand to gain the most from online lea
 
 However, there are thousands of online courses to choose from, but few are AWESOME.
 
-## Whatt makes an AWESOME Online Course?
+## What makes an AWESOME Online Course?
 
 Online learning is truly awesome when it meets the learner's **skills, knowledge, context, interests** and is **accessible**. Being that many of our learners are not interested in Ruby on Rails, iOS App Development,  
 
@@ -33,13 +33,13 @@ An Awesome Course is...
 * Course materials and the platform intuitive to use
 * Clear sense of expertise present in the course materials
 
-It also could work as a learning circle...
+It should also work as a learning circle...
 * Activities make sense being done together as group work
 * It is possible to imagine a facilitator running the course in-person
 
 To give you a sense of some of the types of courses we're looking for, our most popular courses that are run as learning circles are: Intro to HTML and CSS; Resume Writing; Beginner's Guide to Academic Writing; Introduction to Computer Science; Finance for Everyone: Smart Tools for Decision-Making; Fundamentals of Public Speaking; The Science of Happiness; Start Writing Fiction; Career Edge: Resume, Networking and Interview Skills; English Now! USA Learns; Make a Website.
 
-(Hint: We're not looking for Ruby on Rails or VR App Courses)
+(Hint: We're not looking for another Ruby on Rails or VR App Courses)
 
 ## Getting Started
 
