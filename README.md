@@ -1,44 +1,59 @@
-# AWESOME OER
+# AWESOME Online Courses
 
-[Peer 2 Peer University (P2PU)](p2pu.org) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person. We're working with 20 libraries across the United States, France and Kenya and expanding quickly!
+[Peer 2 Peer University (P2PU)](p2pu.org) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person.
 
-**WE NEED YOUR HELP** to find make our Open Educational Resources list **AWESOME**. We want to create a current list of OER courses for educators to use right away.
+**WE NEED YOUR HELP** to find more **AWESOME** online courses and share this list with educators and facilitators who are running learning cirlces around the globe. 
 
 ![alt text](http://www.knowledge-commons.de/wp-content/uploads/2014/02/P2PU-logo.jpg)
 
-## The big picture
-Problem: 35% of US adults start but never finish college.
-Current higher education paradigms – college, MOOCs - have been unable to tackle the education crisis for the following reasons:
-* Cost: Not just direct costs of school, but associated costs (transport, materials, etc) and opportunity cost of juggling job and school.
-* No life skill training: Learners succeed not just by accumulating content knowledge, but by developing life-success skills that support them going forward.
-* Lack of Social Supprt: Without a peer network, it is difficult for many learners to stay engaged and motivated, and get help when they need it.
+## Learning Circles
 
-Solution: *Learning Circles*: Lightly facilitated and locally delivered model of peer learning that leverages high quality online learning materials. 
-* Open: Leverages existing MOOCs; Participants do not need additional tools, and minimal digital literacy; Model designed for free and easy scalability
-* Peer Learning: Participants work together, face to face, building interpersonal skills; Includes tools to foster peer learning and two way feedback; Facilitated by non-content expert
-* Real people in Real places: Offline study groups, meeting weekly; Hosted in publicly accessible space that local communities know
+[Learning circles](https://learningcircles.p2pu.org/en/) are lightly-facilitated study groups for adult learners who want to take free
+online courses together at a library or community center. Meeting once a week for 6-8 weeks, participants work together through course materials in subjects ranging from resume writing to web design to public speaking. The facilitator is not expected to be a content expert - their role is to be proficient in online courseware and skilled in facilitating peer learning groups.
 
-## Here's where you can help
+There is a huge volume of free, high-quality learning courses available online, but completion rates for online learning hover around 5%, and those who do complete a course are often already highly educated. Due to barriers like **digital literacy, awareness, and academic
+confidence**, many of the individuals who stand to gain the most from online learning are not currently taking part. Learning circles offer an opportunity for **first-time online learners** meaningfully engage with course materials, and provide peer-to-peer support to help each other succeed. They also support the development of digital skills, and help create face-to-face community around shared interests. Learning circles usually meet for 90 minutes/week for 6 weeks with between 4-12 participants, though this model is flexible. 
 
-Anyone can run a [learning circle](https://learningcircles.p2pu.org/en/). The first step is to choose which online course to take in-person with others. 
+However, there are thousands of online courses to choose from, and few of them are AWESOME***.
 
-However, there are thousands of online courses. Which ones are free, open, high quality, and available on-demand? Which ones are ideally suited as courses to take in-person? Which ones work best for those with minimal digital literacy?  
+## What's an AWESOME Online Course?
 
-> When we mean "open" in terms of Open Educational Resource (OER), we mean "free and openly licensed educational materials that can be used for teaching, learning, research, and other purposes". Here's a few other definitions of [OER](https://wiki.creativecommons.org/wiki/What_is_OER%3F).
+Online learning is truly awesome when it meets the learner's *skills, knowledge, context, interests* and is *accessible*. Being that many of our learners are not interested in Ruby on Rails, iOS App Development,  
+
+An Awesome Course is...
+* Free (free enrolment and free access to all course materials)
+* English-medium (or whichever language you choose)
+* Creative Commons license (rather than copyrighted)
+* Is available on-demand or whenever the learner chooses to take it
+* Not too long (we recommend 5-8 week long courses)
+* Low weekly commitment (varies if learners commit to doing additional work)
+* No additional software required aside from browser and a word processor
+* No prerequisites that will prevent many people from taking this course?
+* Mode of instruction is engaging and effective
+* Course materials and the platform intuitive to use
+* Clear sense of expertise present in the course materials
+
+Could it also work as a learning circle?
+* Activities make sense being done together as group work
+* Possible to imagine a facilitato running this course in-person
 
 Take a look at [our current course list](https://learningcircles.p2pu.org/en/courses/) to give you an idea of what learning circle facilitators are currently using as inspirtation. There are also course aggregator websites like [class-central](https://www.class-central.com/) and [open culture](http://www.openculture.com/freeonlinecourses) that you should know about too.
 
-With your help, educators, librarians and learning circle facilitators will be able to find the right open course to for their communities in less time.
 
 ## Getting Started
+ 
+Tell us what you are looking at - open a new github issue and say what topic area you are looking into
 
-Join us on [Gitter](https://gitter.im/p2pu/AwesomeOnlineCourses)
+### Tech info for adding a course
 
-XXXXXXXX
-
-## Contributing
-
-Thanks for your interest in contributing to P2PU's Awesome OER List! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+1. Add your course info
+2. Go to the _courses folder in your repository.
+3. Click “Create new file”
+4. Fill in “Name your file” with the name of your course all in lower-case and with spaces replaced by hyphens: -. It must end with .md
+5. Copy and paste the contents of the template: https://raw.githubusercontent.com/p2pu/Awesome-OER-List/gh-pages/_courses/example.md
+6. Update the fields at the top - title, …
+7. Click “Commit new file”
+8. Submit new pull request 
 
 ## Participation Guidelines
 
