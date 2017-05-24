@@ -32,6 +32,8 @@ With your help, educators, librarians and learning circle facilitators will be a
 
 ## Getting Started
 
+Join us on [Gitter](https://gitter.im/p2pu/AwesomeOnlineCourses)
+
 XXXXXXXX
 
 ## Contributing
