@@ -1,22 +1,46 @@
-# [ Project Title ]
+# Web and Messaging
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+The browser is how we access the web, and a *lot* of useful information about us is stored in its data. Messaging apps are how we are using the internet to connect to our friends, families and increasingly how we take care of business - paying bills, shopping and more. How can we bridge these worlds? How can we make them complementary? Lets explore ways of making these two integral parts of our online lives play together!
 
-[ If you have one, add your logo or an image here ]
+Participation in this project can mean things like:
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+* Design: [Ideation](https://toolkit.mozilla.org/methods/) on possible types of integrations in either direction. Bots? Add-ons? Deep-linking? Games? Media? How can usage in one complement the other, in either direction?
+* Research: Most popular messaging apps broken down by country and userbase, or listing the API abilities and links to documentation for the top apps?
+* Research: What browser add-ons exist which integrate with messaging apps?
+* Research on browser features and data which might be useful for sending to, or receiving from messaging apps. What add-on APIs existing in browsers for these, if any?
+* Creating asset repositories or documenting the license and location of things like icons for the apps and the browsers.
+* [Prototype](https://toolkit.mozilla.org/methods/) ideas for messaging app and browser integrations. Some discoveries are only possible by trying things out!
+* Building or documenting tools for connecting services. For example, libraries for authenticating users to their messaging services or browser services.
+* Anything else related to how the web and messaging apps can integrate. Your ideas have value!
+
+Examples:
+
+* A browser add-on for sending links, images or videos to your messaging apps.
+* In-browser chatting and co-browsing with friends on different messaging networks.
+* Adding deep linking support to mobile browsers using the various messaging app APIs.
+* A bot for accessing your browser data - history, bookmarks, or top visited sites, etc. Maybe it can send those things to your friends or other devices. Maybe it can log you into websites and get information for you.
+* What else?!
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+* Have any information or ideas for things related to integrating messaging apps with the web? File an issue to share it!
+* Want to contribute documentation, research or design information? Send a pull request!
 
+<!--
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+COMING SOON
+
+Thanks for your interest in contributing to Web and Messaging! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+-->
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [autonome@gmail.com].
+
+## Who Am I?
+
+I'm Dietrich Ayala, a developer relationist at Mozilla. [Email me](mailto:autonome@gmail.com) or reach me at [@dietrich](https://twitter.com/dietrich) on Twitter.
 
 ## MozSprint
 
