@@ -1,4 +1,4 @@
-# Contributing to Awesome OER List
+# Contributing to Awesome Online Course List
 
 Thank you for your interest in contributing to P2PU's Awesome OER List!
 
@@ -11,13 +11,6 @@ This documents is a set of guidelines for contributing to Awesome OER List on Gi
 ## Participation guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to thepeople@p2pu.org
-
-## What we're working on
-
-* Expanding our learning circle model to work with [libraries across the USA](http://info.p2pu.org/2017/05/16/peer-2-peer-coast-2-coast/)
-* Supporting learners in Kenya participate through the [Kenya National Library Service](http://www.eifl.net/news/public-library-has-put-me-right-path)
-* Building a global community of learning circle facilitators and educators through our [community forum](https://groups.google.com/a/p2pu.org/forum/#!forum/community)
-* Creating an open source learning revolution: Anyone, anywhere can log on to platform and obtain the online tools, as well as access to virtual community, to run learning circles in their community 
 
 ## How to submit changes
 
@@ -38,3 +31,12 @@ Notice a mistake? Please file any bugs, requests, or questions in our issue trac
 Email us: thepeople@p2pu.org
 Tweet: [@p2pu](www.twitter.com/p2pu)
 
+
+## What else we're working on
+
+Want to be more involved? Take a look at some of what we're up to. Feel free to reach out thepeople@p2pu.org and let us know how you want to help.
+
+* Expanding our learning circle model to work with [libraries across the USA](http://info.p2pu.org/2017/05/16/peer-2-peer-coast-2-coast/)
+* Supporting learners in Kenya participate through the [Kenya National Library Service](http://www.eifl.net/news/public-library-has-put-me-right-path)
+* Building a global community of learning circle facilitators and educators through our [community forum](https://groups.google.com/a/p2pu.org/forum/#!forum/community)
+* Creating an open source learning revolution: Anyone, anywhere can log on to platform and obtain the online tools, as well as access to virtual community, to run learning circles in their community 
