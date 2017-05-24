@@ -1,5 +1,5 @@
 # AWESOME Online Courses
-Join our chat [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses)
+[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses)
 
 [Peer 2 Peer University (P2PU)](p2pu.org) supports access to high-quality education in public local spaces. We're supporting libraries and community groups in facilitating peer-led learning circles to help learners who want to take online courses together and in-person.
 
@@ -58,7 +58,7 @@ Tell us what you are looking at - open a new github issue and say what topic are
 7. Click “Commit new file”
 8. Submit new pull request 
 
-Questions? Join our online chat at [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses)
+Questions? Join our [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/p2pu/AwesomeOnlineCourses)
 
 ## Participation Guidelines
 
