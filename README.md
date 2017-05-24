@@ -12,7 +12,7 @@
 online courses together at a library or community center. Meeting once a week for 6-8 weeks, participants work together through course materials in subjects ranging from resume writing to web design to public speaking. The facilitator is not expected to be a content expert - their role is to be proficient in online courseware and skilled in facilitating peer learning groups.
 
 There is a huge volume of free, high-quality learning courses available online, but completion rates for online learning hover around 5%, and those who do complete a course are often already highly educated. Due to barriers like **digital literacy, awareness, and academic
-confidence**, many of the individuals who stand to gain the most from online learning are not currently taking part. Learning circles offer an opportunity for **first-time online learners** meaningfully engage with course materials, and provide peer-to-peer support to help each other succeed. They also support the development of digital skills, and help create face-to-face community around shared interests. Learning circles usually meet for 90 minutes/week for 6 weeks with between 4-12 participants, though this model is flexible. 
+confidence**, many of the individuals who stand to gain the most from online learning are not currently taking part. Learning circles offer an opportunity for **first-time online learners** meaningfully engage with course materials, and provide peer-to-peer support to help each other succeed. They also support the development of digital skills, and help create face-to-face community around shared interests. Learning circles usually meet for 90 minutes/week for 6 weeks with between 4-12 participants, though this model is flexible. If you would like more information on how learning circles are run, take a look through our [facilitator handbook](https://www.p2pu.org/assets/uploads/learning_circle_downloads/facilitator_handbook.pdf). 
 
 However, there are thousands of online courses to choose from, but few are AWESOME.
 
@@ -39,7 +39,7 @@ It also could work as a learning circle...
 
 To give you a sense of some of the types of courses we're looking for, our most popular courses that are run as learning circles are: Intro to HTML and CSS; Resume Writing; Beginner's Guide to Academic Writing; Introduction to Computer Science; Finance for Everyone: Smart Tools for Decision-Making; Fundamentals of Public Speaking; The Science of Happiness; Start Writing Fiction; Career Edge: Resume, Networking and Interview Skills; English Now! USA Learns; Make a Website.
 
-(Hint: Not ruby on Rails or VR app Development)
+(Hint: We're not looking for Ruby on Rails or VR App Courses)
 
 ## Getting Started
 
