@@ -37,7 +37,7 @@ It should also work as a learning circle...
 * Activities make sense being done together as group work
 * It is possible to imagine a facilitator running the course in-person
 
-To give you a sense of some of the types of courses we're looking for, our most popular courses that are run as learning circles are: Intro to HTML and CSS; Resume Writing; Beginner's Guide to Academic Writing; Introduction to Computer Science; Finance for Everyone: Smart Tools for Decision-Making; Fundamentals of Public Speaking; The Science of Happiness; Start Writing Fiction; Career Edge: Resume, Networking and Interview Skills; English Now! USA Learns; Make a Website.
+To give you a sense of some of the types of courses we're looking for, our most popular courses that are run as learning circles are: *Intro to HTML and CSS; Resume Writing; Beginner's Guide to Academic Writing; Introduction to Computer Science; Finance for Everyone: Smart Tools for Decision-Making; Fundamentals of Public Speaking; The Science of Happiness; Start Writing Fiction; Career Edge: Resume, Networking and Interview Skills; English Now! USA Learns; Make a Website.*
 
 (Hint: We're not looking for another Ruby on Rails or VR App Courses)
 
