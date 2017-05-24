@@ -2,6 +2,8 @@
 
 The browser is how we access the web, and a *lot* of useful information about us is stored in its data. Messaging apps are how we are using the internet to connect to our friends, families and increasingly how we take care of business - paying bills, shopping and more. How can we bridge these worlds? How can we make them complementary? Lets explore ways of making these two integral parts of our online lives play together!
 
+![messaging apps and web browsers](/web-and-messaging.png?raw=true "Messaging apps and web browsers.")
+
 Participation in this project can mean things like:
 
 * Design: [Ideation](https://toolkit.mozilla.org/methods/) on possible types of integrations in either direction. Bots? Add-ons? Deep-linking? Games? Media? How can usage in one complement the other, in either direction?
