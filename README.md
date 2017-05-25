@@ -34,13 +34,23 @@ Examples:
 * Have any information or ideas for things related to integrating messaging apps with the web? File an issue to share it!
 * Want to contribute documentation, research or design information? Send a pull request!
 
-<!--
 ## Contributing
 
-COMING SOON
+Thanks for your interest in contributing to Web and Messaging! There are many ways to contribute. See examples of the types of contributions above.
 
-Thanks for your interest in contributing to Web and Messaging! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
--->
+To add your ideas or projects, or to work on one of the ideas listed above, create a new issue for it and we'll work on it there together.
+
+To add documents, data or code to the repo:
+
+> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
+> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
+> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
+
+> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+
+## Communication channels
+
+Come chat on Gitter.im: https://gitter.im/web-and-messaging/general
 
 ## Participation Guidelines
 
