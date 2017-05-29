@@ -1,4 +1,5 @@
 # Privacy and Security Situations Challenge
+Explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices.
 
 [ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
 
