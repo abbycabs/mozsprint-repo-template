@@ -4,7 +4,7 @@
 
 Browsers are how we access the web, and a *lot* of useful information about us is stored in their data.
 
-Messaging apps are how we are using the internet to connect to our friends, families and increasingly how we take care of business - paying bills, shopping and more.
+Messaging apps are how we are using the internet to connect to our friends, families, bots, devices and and how we take care of business - paying bills, shopping and more.
 
 How can we bridge these worlds? How can we make them complementary?
 
