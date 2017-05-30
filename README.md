@@ -2,13 +2,17 @@
 
 # Web and Messaging
 
-The browser is how we access the web, and a *lot* of useful information about us is stored in its data.
+Browsers are how we access the web, and a *lot* of useful information about us is stored in their data.
 
 Messaging apps are how we are using the internet to connect to our friends, families and increasingly how we take care of business - paying bills, shopping and more.
 
 How can we bridge these worlds? How can we make them complementary?
 
 Lets explore ways of making these two integral parts of our online lives play together!
+
+This project is part of the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) on June 1-2, 2017.
+It's a gathering both in-person at sites around the world and online to collaborate on projects and learn from each other.
+[Sign up with #mozsprint](http://mozilla.github.io/global-sprint/), and then read on to participate in this project.
 
 Participation in this sprint can be things like:
 
