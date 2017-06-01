@@ -16,7 +16,7 @@ It's a gathering both in-person at sites around the world and online to collabor
 
 Participation in this sprint can be things like:
 
-* *Design:* [Ideation](https://toolkit.mozilla.org/methods/) on possible types of integrations in either direction. Bots? Add-ons? Deep-linking? Games? Media? How can usage in one complement the other, in either direction?
+* *Design:* [Ideation](https://toolkit.mozilla.org/method/idea-generation/) on possible types of integrations in either direction. Bots? Add-ons? Deep-linking? Games? Media? How can usage in one complement the other, in either direction? Add your ideas to the [Ideation issue](https://github.com/autonome/web-and-messaging/issues/1).
 * *Research:* Most popular messaging apps broken down by country and userbase, or listing the API abilities and links to documentation for the top apps?
 * *Research:* What browser add-ons exist which integrate with messaging apps?
 * *Research:* Which browser features and data which might be useful for sending to, or receiving from messaging apps. What add-on APIs existing in browsers for these, if any?
