@@ -3,7 +3,7 @@ Explore and analyze everyday situations on the Internet and learn how to navigat
 
 [ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
 
-![Image of Yaktocat](game-board/assets/logo_privacy-security-challenge-situations.png)
+![Logo - Privacy and Security Situations Challenge](game-board/assets/logo_privacy-security-challenge-situations.png)
 
 [ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
 
