@@ -3,11 +3,11 @@ Explore and analyze everyday situations on the Internet and learn how to navigat
 
 ![Logo - Privacy and Security Situations Challenge](game-board/assets/logo_privacy-security-challenge-situations.png)
 
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/). ]
+[This game is part of the Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge)
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+See the [Issues](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/issues) and get involved!
 
 ## Contributing
 
