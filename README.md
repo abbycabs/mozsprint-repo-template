@@ -10,6 +10,14 @@ Explore and analyze everyday situations on the Internet and learn how to navigat
 3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
 4. Start playing!
 
+### For educators, facilitators and club leaders
+If you work or lead a digital culture, web literacy or 21st century skills initiative, feel free to play this game with your learners, here we have some resources that are interesting for you to connect and learn to prepare before you run the game:
+* [Glenn Greenwald: Why privacy matters | TED Talk | TED.com](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
+* [10 Reasons Why Privacy Matters](https://www.teachprivacy.com/10-reasons-privacy-matters/)
+* [How to: Circumvent Online Censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship)
+* [Privacy & Security Toolkit for Educators & Activists](https://mozilla.github.io/curriculum-final/privacy-toolkit-v10.pdf)
+* [Beginners’ Guide To PGP](http://www.bitcoinnotbombs.com/beginners-guide-to-pgp/)
+
 ## How to remix and create my own
 This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! **There are two ways to remix:**
 
@@ -40,6 +48,13 @@ This game is extensive, this means you can remix the game and create your own si
 5. When finished, save the file to your computer, upload it to your personal cloud account ([Google Drive](https://drive.google.com), [Dropbox](https://dropbox.com) are good options), get the public link to download the file using your cloud service, **[open an issue](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/issues/new)** informing that you translated and add the download link.
 
 ***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
+
+### Test in your local community and report
+We want to improve this game and ensure it is accessible and engaging for everyone, you are welcome to test and report on the Mozilla Learning Network forum.
+
+And to get started you need to invite a local group from your neighborhood, school, university and others, choose a date and safe place, read and understand how to play the game and watch or read content for educators (you are in the "How to play" session of this page).
+
+Report your experiences in the Mozilla Learning Network forum, feel free.
 
 ## Participation Guidelines
 
