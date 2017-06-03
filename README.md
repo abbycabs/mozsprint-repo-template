@@ -65,7 +65,9 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 [Cynthia Pereira](https://reps.mozilla.org/u/cynthiapereira/), Front-end Developer & Communication
 
-[Cyb3ll3 Oliveira](https://mozillians.org/pt-BR/u/cyb3ll3/), Tests, Quality and Feedback
+[Cyb3ll3 Oliveira](https://mozillians.org/pt-BR/u/cyb3ll3/), Tests, Quality & Feedback
+
+[Carolina Tejada](https://twitter.com/cctalvarez), Spanish L10n
 
 ## MozSprint
 
