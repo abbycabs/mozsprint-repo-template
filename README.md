@@ -69,7 +69,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 [Carolina Tejada](https://twitter.com/cctalvarez), Spanish L10n
 
-[Mozilla Global Sprint, Learning & Leadership Teams](https://mozilla.org), Challenge, Ideas, Resources & Network
+[Chad Sansing](https://twitter.com/chadsansing), Challenge, Ideas & Resources
 
 ## MozSprint
 
