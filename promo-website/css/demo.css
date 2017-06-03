@@ -199,10 +199,11 @@ a:focus {
 	grid-area: title;
 	font-family: 'nexa_boldregular', sans-serif;
 	letter-spacing: -0.025em;
-	font-size: 8em;
-	line-height: 160px;
+	font-size: 4em;
+	line-height: 70px;
 	margin: 0;
 	text-transform: lowercase;
+	text-align: center;
 	z-index: 10;
 	cursor: default;
 }
@@ -420,7 +421,7 @@ a:focus {
 }
 
 .demo-3 {
-	--background-color: #56cccf;
+	--background-color: #000;
 	--background-color-2: #41e0e4;
 	--background-color-3: #1747c0;
 	--text-color: #fff;
@@ -431,7 +432,8 @@ a:focus {
 .demo-3 .morph {
 	fill: none;
 	stroke-width: 12px;
-	stroke: #22bcc0;
+	stroke: rgba(164, 255, 0, 0.8);
+	/* stroke: #22bcc0; */
 }
 
 @media screen and (max-width: 50em) {
