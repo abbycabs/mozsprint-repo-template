@@ -1,0 +1,9 @@
+### Linux ###
+*~
+.directory
+.Trash-*
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
