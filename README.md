@@ -69,6 +69,8 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 [Carolina Tejada](https://twitter.com/cctalvarez), Spanish L10n
 
+[Mozilla Global Sprint, Learning & Leadership Teams](https://mozilla.org), Challenge, Ideas, Resources & Network
+
 ## MozSprint
 
 This project was developed for the [Mozilla Privacy Arcade Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), which is part of [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) that took place on June 1-2, 2017, we met personally on sites around the world and online to collaborate on this project and learn with each other. A big hug to everyone who supported this project!
