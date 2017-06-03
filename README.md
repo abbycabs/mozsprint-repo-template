@@ -5,13 +5,20 @@ Explore and analyze everyday situations on the Internet and learn how to navigat
 
 
 ## How to play
-1. Download the board on your language: [[English](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board.pdf)] [Portuguese — soon)] [Spanish — soon]
+1. Download the board on your language: [[English](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board.pdf)] [Portuguese)] [Spanish]
 2. Print or draw the board
 3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules
 
 ## Contributing
 
-Thanks for your interest in contributing to **Privacy and Security Situations Challenge**! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+### Translate to your language
+1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board)] source files and fonts
+2. Download and install the [Hunger Games](http://www.dafont.com/pt/hunger-games.font) and [Supersonic Rocketship](http://www.dafont.com/supersonic-rocketship.font).
+3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664)
+4. Edit the text by translating into your language (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) first)
+5. When finished, save the file to your computer, upload it to your personal cloud account ([Google Drive](), [Dropbox]() are good options), get the public link to download the file using your cloud service, **open an issue** informing that you translated and add the download link.
+
+***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
 
 ## Participation Guidelines
 
