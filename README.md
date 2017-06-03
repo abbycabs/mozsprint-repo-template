@@ -1,13 +1,14 @@
 # Privacy and Security Situations Challenge
 Explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices. This game is proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge) from Mozilla Foundation.
 
-
 ![Logo - Privacy and Security Situations Challenge](game-board/assets/logo_privacy-security-challenge-situations.png)
 
 
-## Getting Started
+## How to play
 
-See the [Issues](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/issues) and get involved!
+1. Download the board [[English(https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board.pdf)]] [Portuguese] [Spanish]
+2. Print or draw the board
+3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules
 
 ## Contributing
 
