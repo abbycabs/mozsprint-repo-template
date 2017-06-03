@@ -11,7 +11,7 @@ Explore and analyze everyday situations on the Internet and learn how to navigat
 4. Start playing!
 
 ### For educators, facilitators and club leaders
-If you work or lead a digital culture project, web literacy or 21st century skills, feel free to play this game with your learners, here we have some resources that are interesting for you to connect and learn to prepare before you run the game:
+If you work or lead a digital culture, web literacy or 21st century skills initiative, feel free to play this game with your learners, here we have some resources that are interesting for you to connect and learn to prepare before you run the game:
 * [Glenn Greenwald: Why privacy matters | TED Talk | TED.com](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 * [10 Reasons Why Privacy Matters](https://www.teachprivacy.com/10-reasons-privacy-matters/)
 * [How to: Circumvent Online Censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship)
