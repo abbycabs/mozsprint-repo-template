@@ -61,11 +61,11 @@ Report your experiences in the Mozilla Learning Network forum, feel free.
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **[Geraldo Barros](http://telegram.me/geraldobarros)**.
 
 ## Credits
-[Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/), Creator & Illustration Design
+[Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/), Game Creator & Illustration Design
 
 [Cynthia Pereira](https://reps.mozilla.org/u/cynthiapereira/), Front-end Developer & Communication
 
-[Cyb3ll3 Oliveira](https://mozillians.org/pt-BR/u/cyb3ll3/), Tests, Quality & Feedback
+[Cyb3ll3 Oliveira](https://mozillians.org/pt-BR/u/cyb3ll3/), Tests & Feedback
 
 [Carolina Tejada](https://twitter.com/cctalvarez), Spanish L10n
 
