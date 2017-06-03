@@ -49,6 +49,13 @@ This game is extensive, this means you can remix the game and create your own si
 
 ***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
 
+### Test in your local community and report
+We want to improve this game and ensure it is accessible and engaging for everyone, you are welcome to test and report on the Mozilla Learning Network forum.
+
+And to get started you need to invite a local group from your neighborhood, school, university and others, choose a date and safe place, read and understand how to play the game and watch or read content for educators (you are in the "How to play" session of this page).
+
+Report your experiences in the Mozilla Learning Network forum, feel free.
+
 ## Participation Guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **[Geraldo Barros](http://telegram.me/geraldobarros)**.
