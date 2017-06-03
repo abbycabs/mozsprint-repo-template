@@ -25,7 +25,7 @@ This game is extensive, this means you can remix the game and create your own si
 1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board)] source files and fonts.
 2. Download and install the [Hunger Games](http://www.dafont.com/pt/hunger-games.font) and [Supersonic Rocketship](http://www.dafont.com/supersonic-rocketship.font).
 3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664).
-4. Edit all text boxes on the board and cards by adding your own situations and solutions to them (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) first).
+4. Edit all text boxes on the board and cards by adding your own situations and solutions to them (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
 5. Save, print and start playing!
 
 ***The first situation is done, it is an example/template to follow.***
@@ -36,7 +36,7 @@ This game is extensive, this means you can remix the game and create your own si
 1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board) source files and fonts.
 2. Download and install the [Hunger Games](http://www.dafont.com/pt/hunger-games.font) and [Supersonic Rocketship](http://www.dafont.com/supersonic-rocketship.font).
 3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664)
-4. Edit the text by translating into your language (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) first).
+4. Edit the text by translating into your language (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
 5. When finished, save the file to your computer, upload it to your personal cloud account ([Google Drive](https://drive.google.com), [Dropbox](https://dropbox.com) are good options), get the public link to download the file using your cloud service, **[open an issue](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/issues/new)** informing that you translated and add the download link.
 
 ***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
