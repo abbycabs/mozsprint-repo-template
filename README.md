@@ -60,8 +60,15 @@ Report your experiences in the Mozilla Learning Network forum, feel free.
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **[Geraldo Barros](http://telegram.me/geraldobarros)**.
 
+## Credits
+[Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/), Creator & Illustration Design
+
+[Cynthia Pereira](https://reps.mozilla.org/u/cynthiapereira/), Front-end Developer & Communication
+
+[Cyb3ll3 Oliveira](https://mozillians.org/pt-BR/u/cyb3ll3/), Tests, Quality and Feedback
+
 ## MozSprint
 
-Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
+This project was developed for the [Mozilla Privacy Arcade Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), which is part of [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) that took place on June 1-2, 2017, we met personally on sites around the world and online to collaborate on this project and learn with each other. A big hug to everyone who supported this project!
 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
