@@ -11,12 +11,17 @@ Explore and analyze everyday situations on the Internet and learn how to navigat
 4. Start playing!
 
 ### For educators, facilitators and club leaders
+
+#### Play with your students/learners
 If you work or lead a digital culture, web literacy or 21st century skills initiative, feel free to play this game with your learners, here we have some resources that are interesting for you to connect and learn to prepare before you run the game:
 * [Glenn Greenwald: Why privacy matters | TED Talk | TED.com](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
 * [10 Reasons Why Privacy Matters](https://www.teachprivacy.com/10-reasons-privacy-matters/)
 * [How to: Circumvent Online Censorship](https://ssd.eff.org/en/module/how-circumvent-online-censorship)
 * [Privacy & Security Toolkit for Educators & Activists](https://mozilla.github.io/curriculum-final/privacy-toolkit-v10.pdf)
 * [Beginners’ Guide To PGP](http://www.bitcoinnotbombs.com/beginners-guide-to-pgp/)
+
+#### Lesson plan
+[working on this]
 
 ## How to remix and create my own
 This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! **There are two ways to remix:**
