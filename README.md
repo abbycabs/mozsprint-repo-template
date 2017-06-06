@@ -61,6 +61,9 @@ And to get started you need to invite a local group from your neighborhood, scho
 
 Report your experiences in the Mozilla Learning Network forum, feel free.
 
+## Drop us a line
+If you need send a private message to us, please ping our leaders (Geraldo and Cynthia) from [Institute of Technology and Innovation Digital](<mailto:contato@itidigital.org>), which is the home of the project for now.
+
 ## Participation Guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **[Geraldo Barros](http://telegram.me/geraldobarros)**.
