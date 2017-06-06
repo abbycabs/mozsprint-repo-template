@@ -62,7 +62,7 @@ And to get started you need to invite a local group from your neighborhood, scho
 Report your experiences in the Mozilla Learning Network forum, feel free.
 
 ## Drop us a line
-If you need send a private message to us, please ping our leaders (Geraldo and Cynthia) from [Institute of Technology and Innovation Digital](<mailto:contato@itidigital.org>), which is the home of the project for now.
+If you need send a private message to us, please [ping our leaders](<mailto:contato@itidigital.org>) (Geraldo and Cynthia) from [Institute of Technology and Innovation Digital](https://github.com/itidigitalbr), which is the home of the project for now.
 
 ## Participation Guidelines
 
