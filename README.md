@@ -5,7 +5,7 @@ Explore and analyze everyday situations on the Internet and learn how to navigat
 
 
 ## How to play
-1. Download the board on your language: [[English](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board.pdf)] [Portuguese] [[Spanish](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/l10n/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board%20-%20Spanish.pdf)] [German] [French]
+1. Download the board on your language: [[English](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board.pdf)] [[Portuguese](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/l10n/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board%20-%20Portuguese.pdf)] [[Spanish](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/l10n/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board%20-%20Spanish.pdf)] [German] [French]
 2. Print or draw by hand the board based on PDF file.
 3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
 4. Start playing!
