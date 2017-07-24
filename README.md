@@ -59,10 +59,10 @@ We want to improve this game and ensure it is accessible and engaging for everyo
 
 And to get started you need to invite a local group from your neighborhood, school, university and others, choose a date and safe place, read and understand how to play the game and watch or read content for educators (you are in the "How to play" session of this page).
 
-Report your experiences in the Mozilla Learning Network forum, feel free.
+Report your experiences in the [Mozilla Learning Network forum](https://forum.learning.mozilla.org/), feel free.
 
 ## Drop us a line
-If you need send a private message to us, please [ping our leaders](<mailto:contato@itidigital.org>) (Geraldo and Cynthia) from [Institute of Technology and Innovation Digital](https://github.com/itidigitalbr), which is the project's home .
+If you need send a private message to us, please [ping me](<mailto:geraldobarrosinbox@gmail.com>) (Geraldo).
 
 ## Participation Guidelines
 
