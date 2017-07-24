@@ -21,7 +21,7 @@ If you work or lead a digital culture, web literacy or 21st century skills initi
 * [Beginners’ Guide To PGP](http://www.bitcoinnotbombs.com/beginners-guide-to-pgp/)
 
 #### Lesson plan
-[working on this]
+[TBD]
 
 ## How to remix and create my own
 This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! **There are two ways to remix:**
@@ -35,7 +35,7 @@ This game is extensive, this means you can remix the game and create your own si
 
 
 ### Remixing using vector software
-1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board)] source files and fonts.
+1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board) source files and fonts.
 2. Download and install the [Hunger Games](http://www.dafont.com/pt/hunger-games.font) and [Supersonic Rocketship](http://www.dafont.com/supersonic-rocketship.font).
 3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664).
 4. Edit all text boxes on the board and cards by adding your own situations and solutions to them (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
