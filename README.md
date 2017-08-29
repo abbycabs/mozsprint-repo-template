@@ -20,9 +20,6 @@ If you work or lead a digital culture, web literacy or 21st century skills initi
 * [Privacy & Security Toolkit for Educators & Activists](https://mozilla.github.io/curriculum-final/privacy-toolkit-v10.pdf)
 * [Beginners’ Guide To PGP](http://www.bitcoinnotbombs.com/beginners-guide-to-pgp/)
 
-#### Lesson plan
-[TBD]
-
 ## How to remix and create my own
 This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! **There are two ways to remix:**
 
