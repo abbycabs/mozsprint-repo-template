@@ -64,7 +64,7 @@ All the tasks are open for contribution, they are documented through our [issues
 - [Web development](https://github.com/itidigitalbr/privacy-board-game/milestone/4)
 
 ## Drop us a line
-If you need send a private message to us, please ping [me](geraldobarrosinbox (at) gmail (dot) com) (Geraldo) or [Cynthia](cynthiacpereira (at) gmail (dot) com).
+If you need send a private message to us, please ping us at "contato (@) itidigital (.) org".
 
 ## Participation Guidelines
 
