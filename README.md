@@ -1,4 +1,4 @@
-# Privacy and Security Situations Challenge
+# Privacy Board Game
 Explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices. This game is proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge) from Mozilla Foundation.
 
 ![Logo - Privacy and Security Situations Challenge](game-board/assets/logo_privacy-security-challenge-situations.png)
