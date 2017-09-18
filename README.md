@@ -51,15 +51,20 @@ This game is extensive, this means you can remix the game and create your own si
 
 ***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
 
-### Test in your local community and report
-We want to improve this game and ensure it is accessible and engaging for everyone, you are welcome to test and report on the Mozilla Learning Network forum.
+### Start with a issue
+Our project is open to contributions!
 
-And to get started you need to invite a local group from your neighborhood, school, university and others, choose a date and safe place, read and understand how to play the game and watch or read content for educators (you are in the "How to play" session of this page).
+All the tasks are open for contribution, they are documented through our [issues](https://github.com/itidigitalbr/privacy-board-game/issues), [milestones](https://github.com/itidigitalbr/privacy-board-game/milestones) and [projects](https://github.com/itidigitalbr/privacy-board-game/projects) panel!
 
-Report your experiences in the [Mozilla Learning Network forum](https://forum.learning.mozilla.org/), feel free.
+**Want to start? Choose one of the areas to see our open tasks and choose one!**
+- [Marketing](https://github.com/itidigitalbr/privacy-board-game/milestone/5)
+- [Events production](https://github.com/itidigitalbr/privacy-board-game/milestone/2)
+- [Design](https://github.com/itidigitalbr/privacy-board-game/milestone/1)
+- [Education](https://github.com/itidigitalbr/privacy-board-game/milestone/3)
+- [Web development](https://github.com/itidigitalbr/privacy-board-game/milestone/4)
 
 ## Drop us a line
-If you need send a private message to us, please [ping me](<mailto:geraldobarrosinbox@gmail.com>) (Geraldo).
+If you need send a private message to us, please ping [me](geraldobarrosinbox (at) gmail (dot) com) (Geraldo) or [Cynthia](cynthiacpereira (at) gmail (dot) com).
 
 ## Participation Guidelines
 
