@@ -63,7 +63,7 @@ All the tasks are open for contribution, they are documented through our [issues
 
 
 # Drop us a line
-If you need send a private message to us, please ping us at "contato (@) itidigital (.) org".
+If you need send a private message to us, please ping us at contato@itidigital.org.
 
 # Participation Guidelines
 
