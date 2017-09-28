@@ -82,8 +82,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 [Global Sprint Team](https://mozilla.github.io/global-sprint/), Network
 
-## MozSprint
 
-This project was developed for the [Mozilla Privacy Arcade Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), which is part of [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) that took place on June 1-2, 2017, we met personally on sites around the world and online to collaborate on this project and learn with each other.
+## Supported by Mozilla
 
-![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
+A project proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), [Global Sprint](https://mozilla.github.io/global-sprint/) and [Open Leaders](https://mozilla.github.io/leadership-training/round-4/projects/#privacy-board-game) from [Mozilla](https://mozilla.org).
