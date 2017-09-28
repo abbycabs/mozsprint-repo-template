@@ -33,7 +33,7 @@ This game is extensive, this means you can remix the game and create your own si
 ## Contributing
 
 ### Translate to your language
-1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board) source files and fonts.
+1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
 2. Download and install the [fonts](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/fonts.md).
 3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664)
 4. Edit the text by translating into your language (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
