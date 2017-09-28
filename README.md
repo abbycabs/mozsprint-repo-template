@@ -49,7 +49,7 @@ This game is extensive, this means you can remix the game and create your own si
 
 ***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
 
-### Start with a issue
+### Start with an issue
 Our project is open to contributions!
 
 All the tasks are open for contribution, they are documented through our [issues](https://github.com/itidigitalbr/privacy-board-game/issues), [milestones](https://github.com/itidigitalbr/privacy-board-game/milestones) and [projects](https://github.com/itidigitalbr/privacy-board-game/projects) panel!
@@ -83,5 +83,4 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 [Global Sprint Team](https://mozilla.github.io/global-sprint/), Network
 
 ## Supported by Mozilla
-
 A project proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), [Global Sprint](https://mozilla.github.io/global-sprint/) and [Open Leaders](https://mozilla.github.io/leadership-training/round-4/projects/#privacy-board-game) from [Mozilla](https://mozilla.org).
