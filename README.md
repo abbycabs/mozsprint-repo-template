@@ -1,5 +1,9 @@
 # Privacy Board Game
-Explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices. This game is proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge) from Mozilla Foundation.
+
+***Welcome to our project repository!*** 🎉🆙
+
+
+The **Privacy Board Game** is a open, offline, extensible and board game to explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices. A project proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge) and [Open Leaders](https://mozilla.github.io/leadership-training/round-4/projects/#privacy-board-game) from [Mozilla](https://mozilla.org).
 
 ![Logo - Privacy and Security Situations Challenge](marketing/graphics/welcome_github.png)
 
