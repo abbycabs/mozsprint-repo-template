@@ -11,7 +11,7 @@ The **Privacy Board Game** is a open, offline, extensible and board game to expl
 
 ![Logo - Privacy and Security Situations Challenge](marketing/graphics/welcome_github.png)
 
-#Getting Started
+# Getting Started
 ## Game play now!
 1. Download the board on your language: [[English](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_english.pdf)] [[Portuguese](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_portuguese.pdf)] [[Spanish](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_spanish.pdf)] [German] [French]
 2. Print or draw by hand the board based on PDF file.
