@@ -13,7 +13,7 @@ The **Privacy Board Game** is a open, offline, extensible and board game to expl
 
 
 ## How to play
-1. Download the board on your language: [[English](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board.pdf)] [[Portuguese](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/l10n/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board%20-%20Portuguese.pdf)] [[Spanish](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-board/l10n/Privacy%20and%20Security%20Situations%20Challenge%20-%20Board%20-%20Spanish.pdf)] [German] [French]
+1. Download the board on your language: [[English](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_english.pdf)] [[Portuguese](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_portuguese.pdf)] [[Spanish](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_spanish.pdf)] [German] [French]
 2. Print or draw by hand the board based on PDF file.
 3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
 4. Start playing!
@@ -22,7 +22,7 @@ The **Privacy Board Game** is a open, offline, extensible and board game to expl
 This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! **There are two ways to remix:**
 
 ### Remixing by hand
-1. Download the [white board game](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/raw/master/game-remix-own/Privacy%20and%20Security%20Situations%20Challenge%20-%20Remix%20Your%20Own.pdf)
+1. Download the [white board game](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_remix_your_own.pdf)
 2. Print or draw by hand the board based on PDF file
 3. Using markers write the situations risks on the white board game and solutions on the white cards.
 4. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
@@ -30,7 +30,7 @@ This game is extensive, this means you can remix the game and create your own si
 
 
 ### Remixing using vector software
-1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board) source files and fonts.
+1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
 2. Download and install the [fonts](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/fonts.md).
 3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664).
 4. Edit all text boxes on the board and cards by adding your own situations and solutions to them (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
@@ -41,7 +41,7 @@ This game is extensive, this means you can remix the game and create your own si
 ## Contributing
 
 ### Translate to your language
-1. Download the [game board](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/tree/master/game-board) source files and fonts.
+1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
 2. Download and install the [fonts](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/fonts.md).
 3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664)
 4. Edit the text by translating into your language (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
