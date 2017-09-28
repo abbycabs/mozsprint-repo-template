@@ -11,14 +11,15 @@ The **Privacy Board Game** is a open, offline, extensible and board game to expl
 
 ![Logo - Privacy and Security Situations Challenge](marketing/graphics/welcome_github.png)
 
-
-## How to play
+#Getting Started
+## Game play now!
 1. Download the board on your language: [[English](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_english.pdf)] [[Portuguese](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_portuguese.pdf)] [[Spanish](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_spanish.pdf)] [German] [French]
 2. Print or draw by hand the board based on PDF file.
 3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
 4. Start playing!
 
-## How to remix and create my own
+## Remixing
+### Remix and create my own
 This game is extensive, this means you can remix the game and create your own situations and cards to challenge your friends! You can engage everyone to remix and co-create a new game from this, this allows you to create unlimited fun, go beyond the border and the ***sky is the limit possibilities***! **There are two ways to remix:**
 
 ### Remixing by hand
@@ -27,7 +28,6 @@ This game is extensive, this means you can remix the game and create your own si
 3. Using markers write the situations risks on the white board game and solutions on the white cards.
 4. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
 5. Start playing!
-
 
 ### Remixing using vector software
 1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
@@ -38,9 +38,9 @@ This game is extensive, this means you can remix the game and create your own si
 
 ***The first situation is done, it is an example/template to follow.***
 
-## Contributing
+# Contributing
 
-### Translate to your language
+## Translate to your language
 1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
 2. Download and install the [fonts](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/fonts.md).
 3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664)
@@ -49,7 +49,7 @@ This game is extensive, this means you can remix the game and create your own si
 
 ***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
 
-### Start with an issue
+## Start with an issue
 Our project is open to contributions!
 
 All the tasks are open for contribution, they are documented through our [issues](https://github.com/itidigitalbr/privacy-board-game/issues), [milestones](https://github.com/itidigitalbr/privacy-board-game/milestones) and [projects](https://github.com/itidigitalbr/privacy-board-game/projects) panel!
@@ -62,14 +62,14 @@ All the tasks are open for contribution, they are documented through our [issues
 - [Events production](https://github.com/itidigitalbr/privacy-board-game/milestone/2)
 
 
-## Drop us a line
+# Drop us a line
 If you need send a private message to us, please ping us at "contato (@) itidigital (.) org".
 
-## Participation Guidelines
+# Participation Guidelines
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to **[Geraldo Barros](http://telegram.me/geraldobarros)**.
 
-## Credits
+# Credits
 [Geraldo Barros](https://reps.mozilla.org/u/geraldobarros/), Game Creator & Illustration Design
 
 [Cynthia Pereira](https://reps.mozilla.org/u/cynthiapereira/), Front-end Developer & Communication
@@ -82,5 +82,5 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 [Global Sprint Team](https://mozilla.github.io/global-sprint/), Network
 
-## Supported by Mozilla
+# Supported by Mozilla
 A project proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), [Global Sprint](https://mozilla.github.io/global-sprint/) and [Open Leaders](https://mozilla.github.io/leadership-training/round-4/projects/#privacy-board-game) from [Mozilla](https://mozilla.org).
