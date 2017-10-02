@@ -204,7 +204,12 @@ a:focus {
 	grid-column: 1 / 3;
 }
 
+.content__related-tiles {
+	display: flex;
+}
+
 .content__related-item {
+	flex: 1;
 	padding: 1em;
 	transition: color 0.3s;
 }
