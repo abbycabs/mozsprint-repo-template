@@ -11,6 +11,8 @@ The **Privacy Board Game** is an open, offline, extensible and board game to exp
 
 This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
 
+# Table of Contents
+* [Welcome](#privacy-board-game)
 * [What we’re doing?](#what-were-doing)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
