@@ -9,6 +9,18 @@ Privacy Board Game
 
 The **Privacy Board Game** is an open, offline, extensible and board game to explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices.
 
+This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
+
+* [What we’re doing?](#what-were-doing)
+* [Getting Started](#getting-started)
+* [Contributing](#contributing)
+* [Drop us a line](#drop-us-a-line)
+* [Participation Guidelines](#participation-guidelines)
+* [Credits](#credits)
+* [Partners](#partners)
+* [Glossary](#glossary)
+
+
 ![Logo - Privacy and Security Situations Challenge](marketing/graphics/welcome_github.png)
 
 # What we’re doing?
