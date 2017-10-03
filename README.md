@@ -17,7 +17,7 @@ The **Privacy Board Game** is an open, offline, extensible and board game to exp
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
 * [Drop us a line](#drop-us-a-line)
-* [Participation Guidelines](#participation-guidelines)
+* [Code of Conduct](#participation-guidelines)
 * [Credits](#credits)
 * [Partners](#partners)
 * [Glossary](#glossary)
