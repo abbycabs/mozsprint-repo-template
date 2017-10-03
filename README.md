@@ -89,8 +89,8 @@ A project proudly part of [Offline Games Challenge](https://github.com/MozillaFo
     <img src="https://mozilla.github.io/global-sprint/img/moz-logo-main-rgb.png" alt="Mozilla logo" title="Mozilla" align="left" height="40" />
 </a>
 
-# Glossary
 
+# Glossary
 * **README file**: a document that introduces an open project to the public and any potential contributors
 * **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
 * **Roadmap**: a document outlining the schedule of work to be done on a project
