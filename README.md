@@ -11,6 +11,18 @@ The **Privacy Board Game** is an open, offline, extensible and board game to exp
 
 ![Logo - Privacy and Security Situations Challenge](marketing/graphics/welcome_github.png)
 
+# What we’re doing?
+We're working with educators, designers and marketers to build a board game to everyone that's use the web can learn how to navigate safely using good online security and privacy practices.
+
+## The problem
+- It’s difficult to teach best privacy and security practices in local projects (Clubs, Meetups, Classroom...) in a highly engaging way.
+
+## The solution
+- Build a offline board game to teach privacy and security best practices.
+
+## Why our solution?
+Because people are enact strong online safety habits through offline board game that's a fun way to learn anything, and **bonus**: ***our game is open, offline and extensible***.
+
 # Getting Started
 ## Game play now!
 1. Download the board on your language: [[English](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_english.pdf)] [[Portuguese](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_portuguese.pdf)] [[Spanish](https://github.com/itidigitalbr/privacy-board-game/raw/master/board/privacy_board_game_spanish.pdf)] [German] [French]
@@ -39,22 +51,11 @@ This game is extensive, this means you can remix the game and create your own si
 ***The first situation is done, it is an example/template to follow.***
 
 # Contributing
+If you think you can help in any of the areas listed (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](https://github.com/itidigitalbr/privacy-board-game/issues/25).
 
-## Translate to your language
-1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
-2. Download and install the [fonts](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/fonts.md).
-3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664)
-4. Edit the text by translating into your language (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
-5. When finished, save the file to your computer, upload it to your personal cloud account ([Google Drive](https://drive.google.com), [Dropbox](https://dropbox.com) are good options), get the public link to download the file using your cloud service, **[open an issue](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/issues/new)** informing that you translated and add the download link.
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
-***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
-
-## Start with an issue
-Our project is open to contributions!
-
-All the tasks are open for contribution, they are documented through our [issues](https://github.com/itidigitalbr/privacy-board-game/issues), [milestones](https://github.com/itidigitalbr/privacy-board-game/milestones) and [projects](https://github.com/itidigitalbr/privacy-board-game/projects) panel!
-
-**Want to start? Choose one of the areas to see our open tasks and choose one!**
+## Our areas
 - [Marketing](https://github.com/itidigitalbr/privacy-board-game/milestone/5)
 - [Design](https://github.com/itidigitalbr/privacy-board-game/milestone/1)
 - [Education](https://github.com/itidigitalbr/privacy-board-game/milestone/3)
@@ -82,7 +83,16 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 [Global Sprint Team](https://mozilla.github.io/global-sprint/), Network
 
-# Supported by Mozilla
+# Partners
+## Mozilla
 A project proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), [Global Sprint](https://mozilla.github.io/global-sprint/) and [Open Leaders](https://mozilla.github.io/leadership-training/round-4/projects/#privacy-board-game) from [Mozilla](https://mozilla.org).<br><a href="https://aimeos.org/">
     <img src="https://mozilla.github.io/global-sprint/img/moz-logo-main-rgb.png" alt="Mozilla logo" title="Mozilla" align="left" height="40" />
 </a>
+
+# Glossary
+
+* **README file**: a document that introduces an open project to the public and any potential contributors
+* **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
+* **Roadmap**: a document outlining the schedule of work to be done on a project
+* **Milestone**: an event or state marking a specific stage in development on the project
+* **Issue**: the GitHub term for tasks, enhancements, and bugs for your projects
