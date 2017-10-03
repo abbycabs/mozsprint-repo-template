@@ -1,4 +1,34 @@
-# Contributing
+# Contributing to Privacy Board Game
+
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+
+The following is a small set of guidelines for contributing to Privacy Board Game. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+
+## Table Of Contents
+* [Code of Conduct](code-of-conduct)
+* [Reporting Bugs](#reporting-bugs)
+* [Suggesting Enhancements](#suggesting-enhancements)
+* [Translate to your language](#translate-to-your-language)
+* [Start with an issue](#start-with-an-issue)
+
+## Code of Conduct
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to contato@itidigital.org.
+
+## Reporting Bugs
+We are human and we fail! Things can go wrong, or outdated with time. You can help us keep everything up!
+
+1. Make sure the bug has been previously reported in the [issues list](https://github.com/itidigitalbr/privacy-board-game/issues). If you do not go to the next step.
+2. Not reported? Okay, [login](https://github.com/login) or [create an account](https://github.com/join?source=login) on GitHub.
+3. Now, go to [New issue](https://github.com/itidigitalbr/privacy-board-game/issues/new) add the main title of the bug in a few words and add your comment by describing the bug and this should include relevant links. Ready to go?! Click on "Submit new issue".
+4. Ready! Waiting for updates!
+
+## Suggesting Enhancements
+New ideas and improvements are welcome, let's start ?!
+
+1. Make sure the enhancement has been previously reported in the [issues list](https://github.com/itidigitalbr/privacy-board-game/issues). If you do not go to the next step.
+2. Not reported before? Okay, [login](https://github.com/login) or [create an account](https://github.com/join?source=login) on GitHub.
+3. Now, go to [New issue](https://github.com/itidigitalbr/privacy-board-game/issues/new) add the main title of the enhancement in a few words and add your comment by describing the enhancement and this should include relevant links. Ready to go?! Click on "Submit new issue".
+4. Ready! Waiting for updates!
 
 ## Translate to your language
 1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
