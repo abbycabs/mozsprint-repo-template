@@ -1,5 +1,5 @@
 # Leadership Training
-[Mentorship and Training on Working Open](https://mozilla.github.io/leadership-training/)
+Files from our work on [Mentorship and Training on Working Open](https://mozilla.github.io/leadership-training/).
 
 ## Files/Homework
 - [Open Canvas](https://drive.google.com/open?id=1DxLbSnXOLY-AAQu70tfY65od_r6hZ3obwd6VtzlfeQo)
