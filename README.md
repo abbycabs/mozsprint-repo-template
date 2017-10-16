@@ -39,7 +39,7 @@ Because people are enact strong online safety habits through offline board game 
 
 # Getting Started
 ## Game play now!
-1. Download the board on your language: [[English](board/privacy_board_game_en-us.pdf)] [[Portuguese](master/board/privacy_board_game_pt-br.pdf)] [[Spanish](master/board/privacy_board_game_es.pdf)] ***[Translate to your language](https://www.poeditor.com/join/project/HnVTl9QYVp)***
+1. Download the board on your language: [[English](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_en-us.pdf)] [[Portuguese](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_pt-br.pdf)] [[Spanish](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/privacy_board_game_es.pdf)] ***[Translate to your language](https://www.poeditor.com/join/project/HnVTl9QYVp)***
 2. Print or draw by hand the board based on PDF file.
 3. Check the **"Let's Play"** on board game that includes tips, prepatives and rules.
 4. Start playing!
