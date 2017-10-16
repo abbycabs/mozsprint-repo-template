@@ -99,7 +99,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 [...and more here](https://github.com/itidigitalbr/privacy-board-game/graphs/contributors)
 
-# Partners
+# Supporters
 ## Mozilla
 A project proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), [Global Sprint](https://mozilla.github.io/global-sprint/) and [Open Leaders](https://mozilla.github.io/leadership-training/round-4/projects/#privacy-board-game) from [Mozilla](https://mozilla.org).<br>
 <img src="https://mozilla.github.io/global-sprint/img/moz-logo-main-rgb.png" alt="Mozilla logo" title="Mozilla" align="left" height="40" /> <br>
