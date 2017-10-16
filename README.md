@@ -104,14 +104,6 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 A project proudly part of [Offline Games Challenge](https://github.com/MozillaFoundation/mpa-offline-games-challenge), [Global Sprint](https://mozilla.github.io/global-sprint/) and [Open Leaders](https://mozilla.github.io/leadership-training/round-4/projects/#privacy-board-game) from [Mozilla](https://mozilla.org).<br>
 <img src="https://mozilla.github.io/global-sprint/img/moz-logo-main-rgb.png" alt="Mozilla logo" title="Mozilla" align="left" height="40" /> <br>
 </a>
-
-## POEditor
-A project proudly part of [POEditor Free Open Source Localization](https://www.poeditor.com/join/project/HnVTl9QYVp) since we've an [OSI approved license](http://opensource.org/licenses).<br>
-<img src="https://www.poeditor.com/public/images/logo_small.png" alt="POEditor" title="POEditor" align="left" height="40" /> <br>
-</a>
-
-
-
 # Glossary
 * **README file**: a document that introduces an open project to the public and any potential contributors
 * **repository** or **repo**: a collection of documents related to your project, in which you create and save new code or content
