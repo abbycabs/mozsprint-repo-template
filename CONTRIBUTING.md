@@ -31,11 +31,14 @@ New ideas and improvements are welcome, let's start ?!
 4. Ready! Waiting for updates!
 
 ## Translate to your language
-1. Download the [game board](https://github.com/itidigitalbr/privacy-board-game/tree/master/board) source files and fonts.
-2. Download and install the [fonts](https://github.com/itidigitalbr/privacy-board-game/blob/master/board/fonts.md).
-3. Open one of source files using [vector software](http://www.creativebloq.com/illustrator/alternative-to-illustrator-1131664)
-4. Edit the text by translating into your language (if you're using the Illustrator, [unlock the layers](https://helpx.adobe.com/illustrator/using/locking-hiding-deleting-objects.html) before).
-5. When finished, save the file to your computer, upload it to your personal cloud account ([Google Drive](https://drive.google.com), [Dropbox](https://dropbox.com) are good options), get the public link to download the file using your cloud service, **[open an issue](https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/issues/new)** informing that you translated and add the download link.
+Our localization efforts are on the [POEditor platform](https://www.poeditor.com/join/project/HnVTl9QYVp), an intuitive, simple and efficient localization software. It is very simple to start:
+1. Go to [POEditor Privacy Board Game](https://www.poeditor.com/join/project/HnVTl9QYVp)
+2. Mark the language you want to start, if you do not see your language click on "Click here to suggest a new language".
+3. Add your email address and your name.
+4. Click on "Join this project", you can also login using Facebook, Google Plus and GitHub.
+
+You will receive an **activation e-mail message and in addition to activating your account, you will see a step-by-step tutorial in page to use the localization tool and start translating instantly**. If you need, see the [support](https://www.poeditor.com/help/) and [FAQ](https://www.poeditor.com/help/faq) pages.
+
 
 ***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
 
