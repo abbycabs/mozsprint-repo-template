@@ -106,8 +106,8 @@ A project proudly part of [Offline Games Challenge](https://github.com/MozillaFo
 </a>
 
 ## POEditor
-A project proudly part of [POEditor Free Open Source Localization](https://www.poeditor.com/join/project/HnVTl9QYVp) as we've an   OSI approved license.<br>
-<img src="https://www.poeditor.com/public/images/logo_small.png" alt="Mozilla logo" title="Mozilla" align="left" height="40" /> <br>
+A project proudly part of [POEditor Free Open Source Localization](https://www.poeditor.com/join/project/HnVTl9QYVp) since we've an [OSI approved license](http://opensource.org/licenses).<br>
+<img src="https://www.poeditor.com/public/images/logo_small.png" alt="POEditor" title="POEditor" align="left" height="40" /> <br>
 </a>
 
 
