@@ -1,120 +1,108 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Privacy Board Game — open, offline, extensible and board game.</title>
-		<meta name="description" content="Explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices. This game is proudly part of Offline Games Challenge from Mozilla Foundation." />
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
-		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<html lang="en">
 
-		<link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
-		<link rel="manifest" href="img/favicons/manifest.json">
-		<link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-		<link rel="shortcut icon" href="img/favicons/favicon.ico">
-		<meta name="msapplication-config" content="img/favicons/browserconfig.xml">
-		<meta name="theme-color" content="#ffffff">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Privacy Board Game - The Game For Privacy">
+    <meta name="keywords" content="privacy, game, board, open source">
+    <meta name="author" content="Privacy Board Game contributors">
+    <title>Privacy Board Game by ITIDigital Brasil</title>
+    <!-- PACE -->
+    <script src="js/pace.min.js"></script>
+    <link href="css/pace.css" rel="stylesheet">
+    <!-- Animates -->
+    <link href="css/animate.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome 4.4.0 -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
 
-		<meta property="og:title" content="Privacy Board Game" />
-		<meta property="og:description" content="Explore and analyze everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices. Print and play now!" />
-		<meta property="og:image" content="https://github.com/itidigitalbr/privacy-board-game/blob/master/marketing/graphics/welcome_github.png" />
-		<meta property="og:url" content="https://itidigitalbr.github.io/privacy-board-game/website" />
-		<meta property="og:site_name" content="Privacy Board Game" />
+    <!-- Owl Carousel Assets -->
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
 
-		<script>
-			document.documentElement.className = 'js';
-			var supportsCssVars = function() {
-				var s = document.createElement('style'),
-				support;
+    <!-- Lapax CSS -->
+    <link href="css/lapax.css" rel="stylesheet">
 
-				s.innerHTML = "root: { --tmp-var: bold; }";
-				document.head.appendChild(s);
-				support = !!(window.CSS && window.CSS.supports && window.CSS.supports('font-weight', 'var(--tmp-var)'));
-				s.parentNode.removeChild(s);
-				return support;
-			}
-			if (!supportsCssVars()) alert('Please view this demo in a modern browser that supports CSS Variables.')
-		</script>
-	</head>
-	<body class="demo-3 loading">
-		<main>
-			<div class="morph-wrap">
-				<svg class="morph" width="1400" height="770" viewBox="0 0 1400 770">
-					<polygon points="700,84.4 1047.1,685.6 352.9,685.6 352.9,685.6 352.9,685.6 352.9,685.6"/>
-				</svg>
-			</div>
-			<div class="content content--fixed">
-				<header class="codrops-header">
-					<div class="codrops-links">
-						<svg class="decoshape" viewBox="0 0 200 100" width="100%" height="100%" preserveAspectRatio="none">
-							<path d="M 10.45,74.41 C 39.4,110.8 72.59,67.27 95.98,68.68 122.3,70.35 131.5,101.4 154.7,99.69 177.9,98.03 200.5,79.26 198.1,47.17 195.9,15.27 174.6,-0.3279 151.8,0.9941 128.6,2.581 126,16.86 107,22.76 88.26,28.67 88.87,12.36 60.37,1.787 31.79,-8.877 -18.61,37.92 10.45,74.41 Z" />
-						</svg>
-					</div>
-					<h1 class="codrops-header__title">
-						<img src="../marketing/logo/logo_white.png" width="240" alt="">
-					</h1>
-				</header>
-			</div>
-			<div class="content-wrap">
-				<div class="content content--layout content--layout-1">
-					<img class="content__img" src="img/board-game.png" alt="Privacy Board Game" />
-					<h3 class="content__title">Explore and Analyze</h3>
-					<p class="content__author"></p>
-					<p class="content__desc">Everyday situations on the Internet and learn how to navigate safely using good online security and privacy practices.</p>
-					<a href="https://github.com/itidigitalbr/privacy-board-game#getting-started" class="content__link">Play now</a>
-				</div>
-			</div>
-			<div class="content-wrap">
-				<div class="content content--layout content--layout-2">
-					<img class="content__img" src="img/lesson-plan.png" alt="Lesson Plan" />
-					<h3 class="content__title">Lesson Plan</h3>
-					<p class="content__author"></p>
-					<p class="content__desc">For educators, facilitators and club leaders. Learn how to running this activity in the most efficient way.</p>
-					<a href="https://github.com/itidigitalbr/privacy-board-game/tree/master/learning" class="content__link">Lead a game session</a>
-				</div>
-			</div>
-			<div class="content-wrap" id="download">
-				<div class="content content--layout content--layout-3">
-					<img class="content__img" src="img/download-create-and-remix.png" alt="Download" />
-					<h3 class="content__title">Download</h3>
-					<p class="content__author"></p>
-					<p class="content__desc">Create and remix your own board game to challenge your friends.</p>
-					<a href="https://github.com/itidigitalbr/privacy-board-game#remixing" class="content__link">Remix your own now!</a>
-				</div>
-			</div>
-			<div class="content-wrap">
-				<div class="content content--layout content--layout-2">
-					<img class="content__img" src="img/logo_privacy-security-challenge-situation-white.svg" alt="Contribute" />
-					<h3 class="content__title">Contribute</h3>
-					<p class="content__author"></p>
-					<p class="content__desc">Help us to improve this privacy and security challenge!<br><a href="https://github.com/barrosgeraldo/mozsprint-privacy-security-situations/blob/master/LICENSE">CC-BY-4.0</a></p>
-					<a href="https://github.com/itidigitalbr/privacy-board-game#contributing" class="content__link">Fork on GitHub</a>
-				</div>
-			</div>
-			<section class="content content--related">
-				<p class="content__info">If you enjoyed this offiline game you might also like:</p>
-				<div class="content__related-tiles">
-					<a class="content__related-item" href="https://github.com/cyb3113/cipher-fun-wheel/">
-						<img class="content__related-img" src="img/cipher-fun-wheel.jpg">
-						<h3 class="content__related-title">Cipher Fun Wheel</h3>
-					</a>
-					<a class="content__related-item" href="https://github.com/MozillaFoundation/mpa-offline-games-challenge">
-						<img class="content__related-img" src="img/moz-arcade-offline-games.jpg">
-						<h3 class="content__related-title">Privacy Arcade Offline Games</h3>
-					</a>
-					<a class="content__related-item" href="https://www.mozillapulse.org/entry/427">
-						<img class="content__related-img" src="img/back-to-school.png">
-						<h3 class="content__related-title">Back-to-School Privacy & Security Kit</h3>
-					</a>
-				</div>
-			</section>
-		</main>
-		<script src="js/imagesloaded.pkgd.min.js"></script>
-		<script src="js/anime.min.js"></script>
-		<script src="js/scrollMonitor.js"></script>
-		<script src="js/demo.js"></script>
-	</body>
+    <!-- CodyHouse Animated Headlines -->
+    <link href="css/cd-headline.css" rel="stylesheet">
+
+    <!-- Google Font: Lato -->
+
+    <link href="https://fonts.googleapis.com/css?family=Orbitron:400,500,700,900" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="lapax">
+    <!-- HEADER -->
+    <header class="header" role="banner">
+        <nav class="navbar navbar-default nav-header" id="js-nav-header" role="navigation">
+
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="https://github.com/itidigitalbr/privacy-board-game">
+                        <img src="images/logo.png" alt="Privacy Board Game logo">
+                    </a>
+                </div>
+            </div>
+        </nav>
+
+        <section class="container hero header-style-1">
+
+            <div class="hero-content">
+                <div class="logo-block animation" data-animation="bounceInDown">
+                    <h1 class="logo">THE GAME FOR PRIVACY</h1>
+                </div>
+
+                <h2 class="intro cd-headline clip">
+                    <span>A privacy game that's</span>
+                    <span class="cd-words-wrapper">
+                      <b class="is-visible">open.</b>
+                      <b>offline.</b>
+                      <b>extensible.</b>
+                      <b>fun.</b>
+                    </span>
+                </h2>
+
+                <div class="download-app">
+                    <a href="https://github.com/itidigitalbr/privacy-board-game#getting-started" class="btn btn-default btn-lg btn-download">
+                        Play Now - <span>It’s Open</span>
+                      </a>
+                </div>
+
+                <div>
+                  <p>Supporters</p>
+                  <img src="images/supporters.png" alt="Supporters">
+                </div>
+
+            </div>
+
+        </section>
+
+    </header>
+    <!-- / END HEADER -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.scrollTo.min.js"></script>
+    <script src="js/jquery.localScroll.min.js"></script>
+    <script src="js/headroom.min.js"></script>
+    <script src="js/jQuery.headroom.min.js"></script>
+    <script src="js/lapax.js"></script>
+    <script src="js/cd-headline.js"></script>
+
+
+</body>
+
 </html>
