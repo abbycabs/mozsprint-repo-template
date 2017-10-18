@@ -26,6 +26,11 @@ a {
   padding-bottom: 25px;
   color: #fff;
 }
+
+.header .inline-button {
+  display: inline;
+}
+
 @media (max-width: 767px) {
   .header {
     min-height: 500px;
@@ -52,10 +57,10 @@ a {
   .header .navbar-default .navbar-toggle:hover {
     background: rgba(255, 255, 255, 0.2);
   }
-  .header .download-app {
+  .header .button-wrapper {
     padding-top: 30px;
   }
-  .header .download-app .btn-download {
+  .header .button-wrapper .btn-download {
     min-width: 250px;
     margin-bottom: 15px;
   }
@@ -154,7 +159,7 @@ a {
     padding: 0;
   }
 }
-.header .download-app {
+.header .button-wrapper {
   padding: 50px 0 0 0;
 }
 .header .arrow-down {
