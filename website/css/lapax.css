@@ -1,39 +1,57 @@
 body {
+  height: 100vh; /* added jayporta 10/18/2017 */
   font-family: 'Orbitron', sans-serif;
   font-weight: 400;
   font-size: 16px;
   text-align: center;
   color: #444;
 }
-
-p {font-family: 'Orbitron', sans-serif;
-  font-weight: 700;
-  font-size: 16px;
-  padding-top: 60px;
+/* background color moved from .header so there's always a background when the body is scrolled jayporta 10/18/2017 */
+body#lapax{
+  background: #fc466b; /* fallback for old browsers */ /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-gradient(linear, left top, right top, from(#fc466b), to(#3f5efb));
+  background: linear-gradient(to right, #fc466b, #3f5efb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: cover;
 }
-
+p {font-family: 'Orbitron', sans-serif;
+font-weight: 700;
+font-size: 16px;
+padding-top: 60px;
+}
 a {
   color: #5816cf;
 }
 .header {
-  background: #fc466b; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #fc466b, #3f5efb); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #fc466b, #3f5efb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background-size: cover;
-  min-height: 600px;
+  height: 100%;
+  min-height: 780px; /* changed from 600px jayporta 10/18/2017 */
   position: relative;
-  height: 100vh;
   padding-bottom: 25px;
   color: #fff;
+  /*added jayporta 10/18/2017 */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  /* end */
 }
-
 .header .inline-button {
   display: inline;
 }
-
+/* added for the the width between mobile and when the title wraps jayporta 10/18/2017 */
+@media (max-width: 992px) and (min-width: 736px){
+  .header{
+    margin-top: 200px;
+  }
+}
 @media (max-width: 767px) {
+  /* jayporta 10/18/2017
   .header {
-    min-height: 500px;
+  min-height: 500px;
+  }*/
+  .header{
+    margin-top: 30px;
   }
   .header .navbar-toggle {
     margin-top: 15px;
@@ -59,52 +77,68 @@ a {
   }
   .header .button-wrapper {
     padding-top: 30px;
+    /* begin jayporta 10/18/2017 */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    /* end */
   }
   .header .button-wrapper .btn-download {
     min-width: 250px;
     margin-bottom: 15px;
   }
 }
-.header .nav-header {
-  border-radius: 0;
-  background: transparent;
-  position: fixed;
-  height: 78px;
-  width: 100%;
-  border: none;
-  z-index: 1000;
-  -webkit-transition: margin-top 0.3s;
-  -moz-transition: margin-top 0.3s;
-  -o-transition: margin-top 0.3s;
-  transition: margin-top 0.3s;
-  margin-bottom: 0;
+/* removed .header jayporta 10/18/2017 */.nav-header {
+border-radius: 0;
+background: transparent;
+position: fixed;
+top: 0; /* added jayporta 10/18/2017 */
+left: 0; /* added jayporta 10/18/2017 */
+height: 78px;
+width: 100%;
+border: none;
+z-index: 1000;
+-webkit-transition: margin-top 0.3s;
+transition: margin-top 0.3s;
+margin-bottom: 0;
 }
 @media (max-width: 767px) {
-  .header .nav-header {
-    height: 60px;
-  }
+  /* removed .header jayporta 10/18/2017 */.nav-header {
+  height: 60px;
 }
-.header .nav-header .navbar-brand {
-  height: 78px;
 }
-@media (max-width: 767px) {
-  .header .nav-header .navbar-brand {
-    height: 60px;
-    padding-top: 10px;
-  }
+/* removed .header jayporta 10/18/2017 */.nav-header .navbar-brand {
+height: 78px;
 }
 @media (max-width: 767px) {
-  .header .nav-header .navbar-brand img {
-    width: 45px;
-  }
+  /* removed .header jayporta 10/18/2017 */.nav-header .navbar-brand {
+  height: 60px;
+  padding-top: 10px;
 }
-.header .navbar-right {
-  margin-top: 19px;
+}
+@media (max-width: 767px) {
+  /* removed .header jayporta 10/18/2017 */.nav-header .navbar-brand img {
+  width: 45px;
+}
+}
+/* removed .header jayporta 10/18/2017 */.navbar-right {
+margin-top: 19px;
 }
 .header .navbar-default .navbar-nav > li > a {
   color: #fff;
   font-size: 14px;
   padding: 10px 20px;
+  -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
 @media (max-width: 767px) {
@@ -125,24 +159,29 @@ a {
   letter-spacing: 35px;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
+
 @media (max-width: 767px) {
   .header .logo {
     font-size: 40px;
-    letter-spacing: 15px;
+    letter-spacing: 12px; /* changed from 15px jayporta 10/18/2017 */
+    margin-bottom: 50px; /* added jayporta 10/18/2017 */
   }
 }
+/* begin jayporta 10/18/2017
 .header .container.hero {
-  height: 100vh;
+height: 100vh;
 }
 .header .hero-content {
-  -webkit-transform: translateY(-50%);
-  -moz-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  -o-transform: translateY(-50%);
-  transform: translateY(-50%);
-  position: relative;
-  top: 50%;
+
+-webkit-transform: translateY(-50%);
+-moz-transform: translateY(-50%);
+-ms-transform: translateY(-50%);
+-o-transform: translateY(-50%);
+transform: translateY(-50%);
+position: absolute;
+top: 50%;
 }
+*/
 .header .intro {
   font-size: 55px;
   font-weight: 300;
@@ -174,23 +213,25 @@ a {
   margin-left: -17px;
   bottom: 50px;
 }
-.header .nav-header.header--pinned {
-  display: block;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: rgba(88, 22, 207, 0.8);
-  box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07), 0 1px 0 0 rgba(0, 0, 0, 0.03);
-  -webkit-animation-name: slideInDown;
-  animation-name: slideInDown;
+/* removed .header jayporta 10/18/2017 */.nav-header.header--pinned {
+display: block;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+background-color: rgba(88, 22, 207, 0.8);
+-webkit-box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07), 0 1px 0 0 rgba(0, 0, 0, 0.03);
+box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.07), 0 1px 0 0 rgba(0, 0, 0, 0.03);
+-webkit-animation-name: slideInDown;
+animation-name: slideInDown;
 }
-.header .nav-header.header--unpinned {
-  display: none;
+/* removed .header jayporta 10/18/2017 */.nav-header.header--unpinned {
+display: none;
 }
-.header .nav-header.header--top {
-  background: transparent !important;
-  box-shadow: none !important;
+/* removed .header jayporta 10/18/2017 */.nav-header.header--top {
+background: transparent !important;
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
 }
 .btn-download,
 .btn-download:focus,
@@ -205,6 +246,7 @@ a {
   min-width: 205px;
   border-radius: 50px;
   font-weight: 300;
+  -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   outline: none;
 }
@@ -221,6 +263,16 @@ a {
     border: 1px solid #fff;
   }
 }
+/* begin jayporta 10/18/2017 (to prevent horizontal scrolling due to wide buttons)*/
+@media (max-width: 410px){
+  .btn-download,
+  .btn-download:focus,
+  .btn-download:active {
+    font-size: 12px;
+    padding: 12px 20px;
+  }
+}
+/* end */
 .btn-download i,
 .btn-download:focus i,
 .btn-download:active i {
@@ -236,6 +288,7 @@ a {
   font-size: 20px;
   border-radius: 50px;
   margin: 0 15px;
+  -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
 .btn-send-message:hover,
@@ -300,11 +353,10 @@ a {
   width: 65px;
   height: 65px;
   text-align: center;
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
   border-radius: 10px;
   border: 2px solid #5816cf;
   margin: 0 auto;
+  -webkit-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
 .ico-box:hover {
@@ -422,6 +474,7 @@ a {
   background: #fff;
   text-align: center;
   line-height: 50px;
+  -webkit-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
 }
 .feature-with-img .feature-list-icon:hover {
@@ -509,8 +562,6 @@ a {
   }
 }
 .testimonial .user-avatar {
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
   border-radius: 50%;
   max-width: 200px;
 }
@@ -555,6 +606,7 @@ a {
   margin: 13px;
   border-radius: 2px;
   background-color: #fff;
+  -webkit-box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.2);
   display: block;
 }
@@ -580,8 +632,6 @@ a {
   display: block;
 }
 .team .team-item .team-avatar {
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
   border-radius: 50%;
   max-width: 230px;
 }
@@ -614,8 +664,6 @@ a {
   height: 230px;
   line-height: 245px;
   background: rgba(255, 255, 255, 0.9);
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
   border-radius: 50%;
   position: absolute;
   margin: 0 auto;
@@ -632,6 +680,7 @@ a {
   }
 }
 .contact-form .form-control {
+  -webkit-box-shadow: none;
   box-shadow: none;
   height: 45px;
   border: 1px solid #ddd;
@@ -652,6 +701,7 @@ a {
   color: #fff;
 }
 .subscribe .newsletter-box .form-control {
+  -webkit-box-shadow: none;
   box-shadow: none;
   border: 1px solid #fff;
   height: 48px;
