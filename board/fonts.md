@@ -2,3 +2,4 @@
 - [Hunger Games](http://www.dafont.com/hunger-games.font)
 - [Supersonic Rocketship](http://www.dafont.com/supersonic-rocketship.font)
 - [Luckiest Guy Font](http://www.1001fonts.com/luckiest-guy-font.html)
+- [Anton](https://fonts.google.com/specimen/Anton)
