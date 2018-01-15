@@ -1,56 +1,55 @@
-# Contributing to [Project]
+# Contributing to Privacy Board Game
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+The following is a small set of guidelines for contributing to Privacy Board Game. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+## Table Of Contents
+* [Code of Conduct](code-of-conduct)
+* [Reporting Bugs](#reporting-bugs)
+* [Suggesting Enhancements](#suggesting-enhancements)
+* [Translate to your language](#translate-to-your-language)
+* [Start with an issue](#start-with-an-issue)
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+## Code of Conduct
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to contato@itidigital.org.
 
-If your guide is long, consider adding a table of contents.
+## Reporting Bugs
+We are human and we fail! Things can go wrong, or outdated with time. You can help us keep everything up!
 
-* [Participation guidelines](#participation-guidelines)
-* [What we're working on](#what-were-working-on)
-* [How to submit changes](#how-to-submit-changes)
-* [How to report bugs](#how-to-report-bugs)
-* [Communication channels](#communication-channels)
+1. Make sure the bug has been previously reported in the [issues list](https://github.com/itidigitalbr/privacy-board-game/issues). If you do not go to the next step.
+2. Not reported? Okay, [login](https://github.com/login) or [create an account](https://github.com/join?source=login) on GitHub.
+3. Now, go to [New issue](https://github.com/itidigitalbr/privacy-board-game/issues/new) add the main title of the bug in a few words and add your comment by describing the bug and this should include relevant links. Ready to go?! Click on "Submit new issue".
+4. Ready! Waiting for updates!
 
-## Participation guidelines
+## Suggesting Enhancements
+New ideas and improvements are welcome, let's start ?!
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+1. Make sure the enhancement has been previously reported in the [issues list](https://github.com/itidigitalbr/privacy-board-game/issues). If you do not go to the next step.
+2. Not reported before? Okay, [login](https://github.com/login) or [create an account](https://github.com/join?source=login) on GitHub.
+3. Now, go to [New issue](https://github.com/itidigitalbr/privacy-board-game/issues/new) add the main title of the enhancement in a few words and add your comment by describing the enhancement and this should include relevant links. Ready to go?! Click on "Submit new issue".
+4. Ready! Waiting for updates!
 
-## What we're working on
+## Translate to your language
+Our localization efforts are on the [POEditor platform](https://www.poeditor.com/join/project/HnVTl9QYVp), an intuitive, simple and efficient localization software. It is very simple to start:
+1. Go to [POEditor Privacy Board Game](https://www.poeditor.com/join/project/HnVTl9QYVp)
+2. Mark the language you want to start, if you do not see your language click on "Click here to suggest a new language".
+3. Add your email address and your name.
+4. Click on "Join this project", you can also login using Facebook, Google Plus and GitHub.
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+You will receive an **activation e-mail message and in addition to activating your account, you will see a step-by-step tutorial in page to use the localization tool and start translating instantly**. If you need, see the [support](https://www.poeditor.com/help/) and [FAQ](https://www.poeditor.com/help/faq) pages.
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
 
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+***We really appreciate your support translating this game, this will enable people in your region to learn about privacy and security in their own local languages.***
 
-## How to submit changes
+## Start with an issue
+Our project is open to contributions!
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+All the tasks are open for contribution, they are documented through our [issues](https://github.com/itidigitalbr/privacy-board-game/issues), [milestones](https://github.com/itidigitalbr/privacy-board-game/milestones) and [projects](https://github.com/itidigitalbr/privacy-board-game/projects) panel!
 
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
- 
-> 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
-> 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
-> 3. **Submit a [pull request](https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/)**. This opens a discussion around your project and lets the project lead know you are proposing changes.
-
-> First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
-
-## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
-
-## Communication channels
-
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
-
+**Want to start? Choose one of the areas to see our open tasks and choose one!**
+- [Marketing](https://github.com/itidigitalbr/privacy-board-game/milestone/5)
+- [Design](https://github.com/itidigitalbr/privacy-board-game/milestone/1)
+- [Education](https://github.com/itidigitalbr/privacy-board-game/milestone/3)
+- [Web development](https://github.com/itidigitalbr/privacy-board-game/milestone/4)
+- [Events production](https://github.com/itidigitalbr/privacy-board-game/milestone/2)
