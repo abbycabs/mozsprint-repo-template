@@ -32,7 +32,7 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+Notice a mistake? Please file any bugs, requests, or questions in our issue tracker https://app.asana.com/0/615265526528711/list
 
 ## Communication channels
 
