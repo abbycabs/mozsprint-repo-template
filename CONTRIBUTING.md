@@ -32,9 +32,8 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our issue tracker https://app.asana.com/0/615265526528711/list
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://app.asana.com/0/615265526528711/list)
 
 ## Communication channels
-
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+Get in touch with us via our [Chat room](https://gitter.im/Talk-To-RWL/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
