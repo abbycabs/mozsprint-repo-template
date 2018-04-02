@@ -1,16 +1,10 @@
-# Contributing to [Project]
+# Contributing to #Rethink Web Literacy
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+Thank you for your interest in contributing to #Rethink Web Literacy :tada:! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
+#RethinkWebLiterary project seeks to dymistify, thought challenges and implement various dynamics to teaching Web literacy through research, community collaboration and community building. Additionally, the work of this project targets and engages with next generation leaders, identifying their passion, strengths and their capability to revolutionize their communities while creating a lasting change that bridges their societies digital divides.
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
-
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
-
-If your guide is long, consider adding a table of contents.
+This documents is a set of guidelines for contributing to #Rethink Web Literacy on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
@@ -20,21 +14,15 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to mudongo.oarabile@Gmail.com.
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
-
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+Take a look at this [Roadmap](https://github.com/omudongo/-Rethink-Web-Literacy/blob/master/ROAD%20MAP) to stay in the loop.
 
 ## How to submit changes
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
-
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
@@ -44,11 +32,7 @@ Explain how you want contributors to propose changes. For an example GitHub work
 
 ## How to report bugs
 
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
-> Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
+Notice a mistake? Please file any bugs, requests, or questions in our issue tracker [LINK TO ISSUE TRACKER]!
 
 ## Communication channels
 
