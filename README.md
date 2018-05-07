@@ -10,11 +10,11 @@ How can we bridge these worlds? How can we make them complementary?
 
 Let's explore how to make these two integral parts of our online lives play together!
 
-This project is part of the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) on June 1-2, 2017.
+This project is part of the [Mozilla Global Sprint](https://foundation.mozilla.org/opportunity/global-sprint/) on May 10-11, 2018.
 It's a gathering both in-person at sites around the world and online to collaborate on projects and learn from each other.
-[Sign up with #mozsprint](http://mozilla.github.io/global-sprint/), and then read on to participate in this project.
+[Sign up here](https://foundation.mozilla.org/opportunity/global-sprint/participate/), and then read on to participate in this project.
 
-Participation in this sprint can be things like:
+Participation in this sprint can be anything that you'd like to do that is related to the topic:
 
 * *Design:* [Ideation](https://toolkit.mozilla.org/method/idea-generation/) on possible types of integrations in either direction. Bots? Add-ons? Deep-linking? Games? Media? How can usage in one complement the other, in either direction? Add your ideas to the [Ideation issue](https://github.com/autonome/web-and-messaging/issues/1).
 * *Research:* Most popular messaging apps broken down by country and userbase, or listing the API abilities and links to documentation for the top apps?
