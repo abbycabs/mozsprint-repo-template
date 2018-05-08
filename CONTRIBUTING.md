@@ -32,7 +32,7 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 ## How to report bugs
 
-Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://app.asana.com/0/615265526528711/list)
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/omudongo/-Rethink-Web-Literacy/issues)
 
 ## Communication channels
 Get in touch with us via our [Chat room](https://gitter.im/Talk-To-RWL/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
