@@ -8,7 +8,7 @@ Restart your project vision here. Redundancy is your friend
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This document is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If your guide is long, consider adding a table of contents.
 
