@@ -18,7 +18,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Take a look at this [Roadmap](https://github.com/omudongo/-Rethink-Web-Literacy/blob/master/ROAD%20MAP) to stay in the loop.
+Take a look at this [Roadmap](https://github.com/omudongo/-Rethink-Web-Literacy/blob/master/ROADMAP) to stay in the loop.
 
 ## How to submit changes
 
