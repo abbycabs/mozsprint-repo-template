@@ -74,6 +74,6 @@ I'm Dietrich Ayala, a developer relationist at Mozilla. [Email me](mailto:autono
 
 ## MozSprint
 
-Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
+Join us at the [Mozilla Global Sprint](https://foundation.mozilla.org/opportunity/global-sprint/) May 10-11, 2018! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](https://foundation.mozilla.org/opportunity/global-sprint/participate/)!
 
 ![Global Sprint](https://cloud.githubusercontent.com/assets/617994/24632585/b2b07dcc-1892-11e7-91cf-f9e473187cf7.png)
