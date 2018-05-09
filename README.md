@@ -12,7 +12,7 @@ Let's explore how to make these two integral parts of our online lives play toge
 
 Last year we focused on enumerating features possible in each area, and listing APIs for different messengers.
 
-'''Examples'''
+**Examples**
 
 * A bot in a messaging app that you can ask for information about your browser profile: "What's that page I was reading about the Hutongs of Beijing?".
 
