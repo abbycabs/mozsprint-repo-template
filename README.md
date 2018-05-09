@@ -12,6 +12,24 @@ Let's explore how to make these two integral parts of our online lives play toge
 
 Last year we focused on enumerating features possible in each area, and listing APIs for different messengers.
 
+'''Examples'''
+
+* A bot in a messaging app that you can ask for information about your browser profile: "What's that page I was reading about the Hutongs of Beijing?".
+
+* A service in the browser that sends web pages, images and videos to your friends in your messaging apps.
+
+* A bot in the messaging app that sends you username/password hints for your websites via a secure channel, or acts as a two-factor authentication mechanism somehow?
+
+* Saving web pages you saw in the messaging app to your browser history, or as bookmarks.
+
+Join in the chat: https://gitter.im/web-and-messaging/general
+
+This project is part of the [Mozilla Global Sprint](https://foundation.mozilla.org/opportunity/global-sprint/) on May 10-11, 2018.
+It's a gathering both in-person at sites around the world and online to collaborate on projects and learn from each other.
+[Sign up here](https://foundation.mozilla.org/opportunity/global-sprint/participate/), and then read on to participate in this project.
+
+## Participation
+
 This year, I'm going to focus on building a browser extension that logs you into one or more messenger apps, and maybe a bot that logs you into Firefox. You can participate in that project, or in any other type of exploration of this area:
 
 * *Design:* [Ideation](https://toolkit.mozilla.org/method/idea-generation/) on possible types of integrations in either direction. Bots? Add-ons? Deep-linking? Games? Media? How can usage in one complement the other, in either direction? Add your ideas to the [Ideation issue](https://github.com/autonome/web-and-messaging/issues/1).
@@ -22,23 +40,6 @@ This year, I'm going to focus on building a browser extension that logs you into
 * *Prototypes:* [Prototype](https://toolkit.mozilla.org/methods/) ideas for messaging app and browser integrations. Some discoveries are only possible by trying things out!
 * *Tools:* Building or documenting tools for connecting services. For example, libraries for authenticating users to their messaging services or browser services.
 * *Anything* else you can think of related to how the web and messaging apps can integrate!
-
-Join in the chat: https://gitter.im/web-and-messaging/general
-
-This project is part of the [Mozilla Global Sprint](https://foundation.mozilla.org/opportunity/global-sprint/) on May 10-11, 2018.
-It's a gathering both in-person at sites around the world and online to collaborate on projects and learn from each other.
-[Sign up here](https://foundation.mozilla.org/opportunity/global-sprint/participate/), and then read on to participate in this project.
-
-## Examples
-
-* A bot in a messaging app that you can ask for information about your browser profile: "What's that page I was reading about the Hutongs of Beijing?".
-
-* A service in the browser that sends web pages, images and videos to your friends in your messaging apps.
-
-* A bot in the messaging app that sends you username/password hints for your websites via a secure channel, or acts as a two-factor authentication mechanism somehow?
-
-* Saving web pages you saw in the messaging app to your browser history, or as bookmarks.
-
 
 ## Getting Started
 
