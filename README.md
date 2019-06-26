@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/itidigitalbr/privacy-board-game/master/marketing/logo/logo_color.png" alt="Privacy Board Game logo" title="Privacy Board Game" align="right" height="60" />
 </a>
 
-O curioso caso da Internet nas Terras Tupiniquins: a situação brasileira v.01
+Privacy Board Game
 ======================
 ***Bem vindo(a) ao nosso repositório!*** 🎉🆙
 
